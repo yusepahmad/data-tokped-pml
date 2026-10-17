@@ -1,0 +1,89 @@
+Loaded 9021 unique products from /home/yusep/Desktop/my-lecture/semester 3/PENGANTAR PEMBELAJARAN MESIN/project-clustering-tokopedia-product/data/raw/products.jsonl
+Resume: 31 already enriched
+To enrich: 1786
+[3/1786] NOTFOUND https://www.tokopedia.com/tokoprogress/ac-sharp-1-pk-ah-ap9b
+[11/1786] NOTFOUND https://www.tokopedia.com/reiwaofficialstore/exclusive-ameli
+[16/1786] NOTFOUND https://www.tokopedia.com/tokoprogress/ac-sharp-1-2-pk-ah-xp
+[18/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/ac-aqua-1-2-pk-
+[19/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/gree-ac-1-2-pk-
+[21/1786] ERROR Timeout: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. Se
+[23/1786] NOTFOUND https://www.tokopedia.com/tokoprogress/ac-inverter-daikin-1-
+[24/1786] NOTFOUND https://www.tokopedia.com/indocoolstore/ac-midea-inverter-1-
+[25/1786] ok=17 fail=8 (last: AC DAIKIN FTC25YV14 STANDARD 1)
+[27/1786] ERROR Timeout: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. Se
+[28/1786] NOTFOUND https://www.tokopedia.com/tokoprogress/ac-midea-msfq-05crn8-
+[31/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/ac-low-watt-1-2
+[34/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/tcl-ac-low-watt
+[42/1786] ERROR Timeout: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. Se
+[44/1786] NOTFOUND https://www.tokopedia.com/berkah-elektronik-bekasi/cod-ready
+[49/1786] NOTFOUND https://www.tokopedia.com/ratu-dapur/arashi-stand-blender-as
+[50/1786] ok=35 fail=15 (last: 【NEW】Advance BL-08 Blender Lis)
+[51/1786] NOTFOUND https://www.tokopedia.com/hanriverofficial/chikacikuy-han-ri
+[53/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/blender-cosmos-
+[55/1786] NOTFOUND https://www.tokopedia.com/xooqo6-offical-shop/xooqo6-blender
+[56/1786] NOTFOUND https://www.tokopedia.com/raja-dapur-plastik/miyako-blender-
+[57/1786] NOTFOUND https://www.tokopedia.com/ratu-dapur/samono-blender-sw-bl350
+[63/1786] NOTFOUND https://www.tokopedia.com/e3shop/jug-king-chef-ly-767-heavy-
+[66/1786] NOTFOUND https://www.tokopedia.com/nuface/giveaway-beauty-blender-spo
+[68/1786] NOTFOUND https://www.tokopedia.com/belanjacosmos/cosmos-blender-big-c
+[73/1786] NOTFOUND https://www.tokopedia.com/ecentioindonesia/ecentio-food-proc
+[75/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/philips-blender
+[77/1786] NOTFOUND https://www.tokopedia.com/miami-elektronik-82/blender-maspio
+[78/1786] NOTFOUND https://www.tokopedia.com/topjaya-elektronik/blender-cosmos-
+[85/1786] NOTFOUND https://www.tokopedia.com/samono-indonesia/eksklusif-steven-
+[87/1786] NOTFOUND https://www.tokopedia.com/maspion-home-store/maspion-blender
+[88/1786] ERROR Timeout: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. Se
+[90/1786] NOTFOUND https://www.tokopedia.com/vinnatsu-mall2/1000ml-dispenser-ad
+[91/1786] NOTFOUND https://www.tokopedia.com/samitech-id/blender-miyako-2in1-bl
+[92/1786] NOTFOUND https://www.tokopedia.com/miami-elektronik-82/cosmos-blender
+[94/1786] NOTFOUND https://www.tokopedia.com/samono-indonesia/ekslusif-ischaind
+[95/1786] NOTFOUND https://www.tokopedia.com/radia-fashion/gamis-katun-toyobo-w
+[97/1786] NOTFOUND https://www.tokopedia.com/sukahijab-store/sukahijab-frezia-d
+[99/1786] NOTFOUND https://www.tokopedia.com/amie-collection-hijab-style/thalit
+[100/1786] ok=63 fail=37 (last: Qonita Abaya Turkey Bahan Marb)
+[102/1786] NOTFOUND https://www.tokopedia.com/basmalaoutlet/basmala-sorban-khasm
+[104/1786] NOTFOUND https://www.tokopedia.com/nobbyhijab/nobby-auri-dress-2-baha
+[108/1786] NOTFOUND https://www.tokopedia.com/fefastyle/safiya-dress-by-fefastyl
+[109/1786] NOTFOUND https://www.tokopedia.com/sndprojectid/s-d-project-baju-gami
+[110/1786] NOTFOUND https://www.tokopedia.com/syalu/syalu-pakaian-muslim-anak-pe
+[113/1786] NOTFOUND https://www.tokopedia.com/kawan-muslim/kawan-muslim-jubah-ho
+[114/1786] NOTFOUND https://www.tokopedia.com/kawan-muslim/kawan-muslim-jubah-ga
+[118/1786] NOTFOUND https://www.tokopedia.com/alcavellaind/alcavella-nad-zaura-l
+[119/1786] NOTFOUND https://www.tokopedia.com/mfmwofficial/mfmw-marissa-dress-ga
+[123/1786] NOTFOUND https://www.tokopedia.com/cardinal-official/cardinal-gamis-l
+[125/1786] NOTFOUND https://www.tokopedia.com/cardinal-official/cardinal-gamis-l
+[126/1786] NOTFOUND https://www.tokopedia.com/cardinal-official/cardinal-gamis-l
+[127/1786] NOTFOUND https://www.tokopedia.com/cardinal-official/cardinal-gamis-l
+[128/1786] NOTFOUND https://www.tokopedia.com/fefastyle/fefa-style-dress-motif-k
+[130/1786] NOTFOUND https://www.tokopedia.com/sukahijab-store/sukahijab-yuriko-d
+[136/1786] NOTFOUND https://www.tokopedia.com/cardinal-official/cardinal-kids-ga
+[140/1786] NOTFOUND https://www.tokopedia.com/zoraya-official/dress-anak-kuromi-
+[141/1786] NOTFOUND https://www.tokopedia.com/kawan-muslim/kawan-muslim-jubah-ga
+[147/1786] NOTFOUND https://www.tokopedia.com/bluewowdigital/dukungan-bluetooth-
+[150/1786] ok=94 fail=56 (last: Miniso X15 Pro TWS Wireless Ea)
+[153/1786] NOTFOUND https://www.tokopedia.com/kisonli-id/kisonli-tws-earphone-bl
+[154/1786] NOTFOUND https://www.tokopedia.com/ventiontangerang/vention-adapter-u
+[155/1786] NOTFOUND https://www.tokopedia.com/goojodoqshop/bundling-nailong-gooj
+[159/1786] NOTFOUND https://www.tokopedia.com/onlife-official/philips-tah1120-he
+[168/1786] NOTFOUND https://www.tokopedia.com/robot-lifestyle-indonesia/robot-wi
+[169/1786] NOTFOUND https://www.tokopedia.com/solohour-indonesia/solohour-h10-an
+[170/1786] NOTFOUND https://www.tokopedia.com/lds-official-store/live-room-gift-
+[175/1786] NOTFOUND https://www.tokopedia.com/jeep-id/jeep-ew119-tws-true-wirele
+[177/1786] ERROR Timeout: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. Se
+[180/1786] NOTFOUND https://www.tokopedia.com/seruni-comp-official-store/vivan-l
+[182/1786] NOTFOUND https://www.tokopedia.com/doran-gadget-official/headset-blue
+[183/1786] NOTFOUND https://www.tokopedia.com/smartbird-official-store/smartbird
+[184/1786] NOTFOUND https://www.tokopedia.com/jzaq-headphone-helm/jzaq-y12pro-in
+[185/1786] NOTFOUND https://www.tokopedia.com/doran-gadget-manado/headphone-blue
+[186/1786] NOTFOUND https://www.tokopedia.com/robot-official-surabaya/robot-head
+[188/1786] NOTFOUND https://www.tokopedia.com/brodu-audio-indonesia/tws-bluetoot
+[190/1786] NOTFOUND https://www.tokopedia.com/coppersamarinda/copper-tempered-gl
+[194/1786] ERROR Timeout: Failed to perform, curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received. Se
+[195/1786] NOTFOUND https://www.tokopedia.com/coppermedan/copper-case-compatible
+[196/1786] NOTFOUND https://www.tokopedia.com/coppersamarinda/copper-tempered-gl
+[200/1786] NOTFOUND https://www.tokopedia.com/proxindonesia/prox-tempered-glass-
+[201/1786] NOTFOUND https://www.tokopedia.com/coppermedan/iphone-6s-plus-copper-
+[202/1786] NOTFOUND https://www.tokopedia.com/supcaseofficial/case-iphone-15-pro
+[204/1786] NOTFOUND https://www.tokopedia.com/supcaseofficial/iphone-13-pro-max-
+[205/1786] NOTFOUND https://www.tokopedia.com/hippo-elite-indonesia/hippo-elite-
+[208/1786] NOTFOUND https://www.tokopedia.com/supcaseofficial/case-iphone-se-202
