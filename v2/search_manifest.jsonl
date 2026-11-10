@@ -1,0 +1,80 @@
+{"task": ["iphone", 2], "finished_at": "2026-11-05T18:56:30.540342+07:00", "collected": 60}
+{"task": ["iphone", 1], "finished_at": "2026-11-05T18:56:34.960238+07:00", "collected": 60}
+{"task": ["samsung galaxy", 2], "finished_at": "2026-11-05T18:56:39.041728+07:00", "collected": 60}
+{"task": ["samsung galaxy", 1], "finished_at": "2026-11-05T18:56:43.738948+07:00", "collected": 60}
+{"task": ["xiaomi", 2], "finished_at": "2026-11-05T18:56:47.590027+07:00", "collected": 60}
+{"task": ["xiaomi", 1], "finished_at": "2026-11-05T18:56:51.610988+07:00", "collected": 60}
+{"task": ["laptop asus", 2], "finished_at": "2026-11-05T18:56:55.793685+07:00", "collected": 60}
+{"task": ["laptop asus", 1], "finished_at": "2026-11-05T18:56:59.874473+07:00", "collected": 60}
+{"task": ["laptop lenovo", 2], "finished_at": "2026-11-05T18:57:03.834927+07:00", "collected": 60}
+{"task": ["laptop lenovo", 1], "finished_at": "2026-11-05T18:57:07.856237+07:00", "collected": 60}
+{"task": ["smart tv", 2], "finished_at": "2026-11-05T18:57:11.776496+07:00", "collected": 60}
+{"task": ["smart tv", 1], "finished_at": "2026-11-05T18:57:16.374488+07:00", "collected": 60}
+{"task": ["kamera canon", 2], "finished_at": "2026-11-05T18:57:20.672077+07:00", "collected": 60}
+{"task": ["kamera canon", 1], "finished_at": "2026-11-05T18:57:24.659992+07:00", "collected": 60}
+{"task": ["printer", 2], "finished_at": "2026-11-05T18:57:28.165082+07:00", "collected": 60}
+{"task": ["printer", 1], "finished_at": "2026-11-05T18:57:32.252456+07:00", "collected": 60}
+{"task": ["power bank", 2], "finished_at": "2026-11-05T18:57:36.078193+07:00", "collected": 60}
+{"task": ["power bank", 1], "finished_at": "2026-11-05T18:57:40.059641+07:00", "collected": 60}
+{"task": ["headphone bluetooth", 2], "finished_at": "2026-11-05T18:57:43.813450+07:00", "collected": 60}
+{"task": ["headphone bluetooth", 1], "finished_at": "2026-11-05T18:57:48.043667+07:00", "collected": 60}
+{"task": ["kulkas", 2], "finished_at": "2026-11-05T18:57:52.289477+07:00", "collected": 60}
+{"task": ["kulkas", 1], "finished_at": "2026-11-05T18:57:56.136010+07:00", "collected": 60}
+{"task": ["mesin cuci", 2], "finished_at": "2026-11-05T18:58:00.209416+07:00", "collected": 60}
+{"task": ["mesin cuci", 1], "finished_at": "2026-11-05T18:58:03.919161+07:00", "collected": 60}
+{"task": ["ac 1 pk", 2], "finished_at": "2026-11-05T18:58:07.665504+07:00", "collected": 60}
+{"task": ["ac 1 pk", 1], "finished_at": "2026-11-05T18:58:11.788418+07:00", "collected": 60}
+{"task": ["blender", 2], "finished_at": "2026-11-05T18:58:16.105340+07:00", "collected": 60}
+{"task": ["blender", 1], "finished_at": "2026-11-05T18:58:20.545706+07:00", "collected": 60}
+{"task": ["rice cooker", 2], "finished_at": "2026-11-05T18:58:24.209709+07:00", "collected": 60}
+{"task": ["rice cooker", 1], "finished_at": "2026-11-05T18:58:28.415792+07:00", "collected": 60}
+{"task": ["kasur", 2], "finished_at": "2026-11-05T18:58:32.587675+07:00", "collected": 60}
+{"task": ["kasur", 1], "finished_at": "2026-11-05T18:58:36.561413+07:00", "collected": 60}
+{"task": ["lampu led", 2], "finished_at": "2026-11-05T18:58:40.637768+07:00", "collected": 60}
+{"task": ["lampu led", 1], "finished_at": "2026-11-05T18:58:44.690193+07:00", "collected": 60}
+{"task": ["kursi kantor", 2], "finished_at": "2026-11-05T18:58:48.568664+07:00", "collected": 60}
+{"task": ["kursi kantor", 1], "finished_at": "2026-11-05T18:58:52.992586+07:00", "collected": 60}
+{"task": ["meja belajar", 2], "finished_at": "2026-11-05T18:58:56.817807+07:00", "collected": 60}
+{"task": ["meja belajar", 1], "finished_at": "2026-11-05T18:59:01.276656+07:00", "collected": 60}
+{"task": ["sepatu running", 2], "finished_at": "2026-11-05T18:59:05.319706+07:00", "collected": 60}
+{"task": ["sepatu running", 1], "finished_at": "2026-11-05T18:59:09.881037+07:00", "collected": 60}
+{"task": ["tas ransel", 2], "finished_at": "2026-11-05T18:59:14.070393+07:00", "collected": 60}
+{"task": ["tas ransel", 1], "finished_at": "2026-11-05T18:59:18.042866+07:00", "collected": 60}
+{"task": ["jam tangan pria", 2], "finished_at": "2026-11-05T18:59:22.675988+07:00", "collected": 60}
+{"task": ["jam tangan pria", 1], "finished_at": "2026-11-05T18:59:27.236536+07:00", "collected": 60}
+{"task": ["kemeja pria", 2], "finished_at": "2026-11-05T18:59:31.262701+07:00", "collected": 60}
+{"task": ["kemeja pria", 1], "finished_at": "2026-11-05T18:59:35.452084+07:00", "collected": 60}
+{"task": ["gamis", 2], "finished_at": "2026-11-05T18:59:39.434411+07:00", "collected": 60}
+{"task": ["gamis", 1], "finished_at": "2026-11-05T18:59:43.494318+07:00", "collected": 60}
+{"task": ["serum wajah", 2], "finished_at": "2026-11-05T18:59:47.069487+07:00", "collected": 60}
+{"task": ["serum wajah", 1], "finished_at": "2026-11-05T18:59:51.725356+07:00", "collected": 60}
+{"task": ["lipstik", 2], "finished_at": "2026-11-05T18:59:55.780302+07:00", "collected": 60}
+{"task": ["lipstik", 1], "finished_at": "2026-11-05T19:00:00.347730+07:00", "collected": 60}
+{"task": ["parfum", 2], "finished_at": "2026-11-05T19:00:04.155114+07:00", "collected": 60}
+{"task": ["parfum", 1], "finished_at": "2026-11-05T19:00:08.471798+07:00", "collected": 60}
+{"task": ["vitamin c", 2], "finished_at": "2026-11-05T19:00:12.323473+07:00", "collected": 60}
+{"task": ["vitamin c", 1], "finished_at": "2026-11-05T19:00:16.960364+07:00", "collected": 60}
+{"task": ["masker", 2], "finished_at": "2026-11-05T19:00:20.979924+07:00", "collected": 60}
+{"task": ["masker", 1], "finished_at": "2026-11-05T19:00:25.202789+07:00", "collected": 60}
+{"task": ["popok bayi", 2], "finished_at": "2026-11-05T19:00:28.844666+07:00", "collected": 60}
+{"task": ["popok bayi", 1], "finished_at": "2026-11-05T19:00:33.429988+07:00", "collected": 60}
+{"task": ["susu formula", 2], "finished_at": "2026-11-05T19:00:37.510838+07:00", "collected": 60}
+{"task": ["susu formula", 1], "finished_at": "2026-11-05T19:00:41.797522+07:00", "collected": 60}
+{"task": ["mainan anak", 2], "finished_at": "2026-11-05T19:00:45.891269+07:00", "collected": 60}
+{"task": ["mainan anak", 1], "finished_at": "2026-11-05T19:00:50.146672+07:00", "collected": 60}
+{"task": ["sepeda", 2], "finished_at": "2026-11-05T19:00:53.804021+07:00", "collected": 60}
+{"task": ["sepeda", 1], "finished_at": "2026-11-05T19:00:58.271823+07:00", "collected": 60}
+{"task": ["raket badminton", 2], "finished_at": "2026-11-05T19:01:02.452722+07:00", "collected": 60}
+{"task": ["raket badminton", 1], "finished_at": "2026-11-05T19:01:06.425392+07:00", "collected": 60}
+{"task": ["yoga mat", 2], "finished_at": "2026-11-05T19:01:10.073578+07:00", "collected": 60}
+{"task": ["yoga mat", 1], "finished_at": "2026-11-05T19:01:15.379582+07:00", "collected": 60}
+{"task": ["panci", 2], "finished_at": "2026-11-05T19:01:19.637358+07:00", "collected": 60}
+{"task": ["panci", 1], "finished_at": "2026-11-05T19:01:23.641799+07:00", "collected": 60}
+{"task": ["kopi bubuk", 2], "finished_at": "2026-11-05T19:01:27.774866+07:00", "collected": 60}
+{"task": ["kopi bubuk", 1], "finished_at": "2026-11-05T19:01:31.947916+07:00", "collected": 60}
+{"task": ["minyak goreng", 2], "finished_at": "2026-11-05T19:01:35.462474+07:00", "collected": 60}
+{"task": ["minyak goreng", 1], "finished_at": "2026-11-05T19:01:39.619129+07:00", "collected": 60}
+{"task": ["teh celup", 2], "finished_at": "2026-11-05T19:01:43.715830+07:00", "collected": 60}
+{"task": ["teh celup", 1], "finished_at": "2026-11-05T19:01:48.563356+07:00", "collected": 60}
+{"task": ["cokelat bubuk", 2], "finished_at": "2026-11-05T19:01:52.708774+07:00", "collected": 60}
+{"task": ["cokelat bubuk", 1], "finished_at": "2026-11-05T19:01:57.423556+07:00", "collected": 60}

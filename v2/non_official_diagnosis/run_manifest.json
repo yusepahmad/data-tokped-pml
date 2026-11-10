@@ -1,0 +1,131 @@
+{
+  "started_at": "2026-11-05T18:39:58.596108+07:00",
+  "status": "complete",
+  "keywords": [
+    {
+      "keyword": "kopi bubuk",
+      "pages": [
+        {
+          "page": 1,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 2,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 3,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 5,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 8,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 10,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        }
+      ]
+    },
+    {
+      "keyword": "sepatu running",
+      "pages": [
+        {
+          "page": 1,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 2,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 3,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 5,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 8,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 10,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        }
+      ]
+    },
+    {
+      "keyword": "iphone",
+      "pages": [
+        {
+          "page": 1,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 2,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 3,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 5,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 8,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        },
+        {
+          "page": 10,
+          "total": 60,
+          "official": 60,
+          "non_official": 0
+        }
+      ]
+    }
+  ],
+  "finished_at": "2026-11-05T18:41:15.077929+07:00",
+  "request_count": 19
+}

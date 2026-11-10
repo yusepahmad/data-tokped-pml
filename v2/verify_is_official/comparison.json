@@ -1,0 +1,94 @@
+{
+  "keyword": "kopi bubuk",
+  "shops": [
+    {
+      "shop_id": "7495724713105591026",
+      "shop_name": "Vinnatsu",
+      "shop_url": "https://www.tokopedia.com/vinnatsu",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "vinnatsu"
+    },
+    {
+      "shop_id": "7495968731615168921",
+      "shop_name": "Mawar Best Shopping",
+      "shop_url": "https://www.tokopedia.com/mawar-best-shopping",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "mawar-best-shopping"
+    },
+    {
+      "shop_id": "7495629367513548870",
+      "shop_name": "Vinnatsu MALL2",
+      "shop_url": "https://www.tokopedia.com/vinnatsu-mall2",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "vinnatsu-mall2"
+    },
+    {
+      "shop_id": "7496266396300183592",
+      "shop_name": "Vinnatsu official",
+      "shop_url": "https://www.tokopedia.com/vinnatsu-official",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "vinnatsu-official"
+    },
+    {
+      "shop_id": "6750847",
+      "shop_name": "Sakha Coffee Roastery",
+      "shop_url": "https://www.tokopedia.com/sakhacoffee",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "sakhacoffee"
+    },
+    {
+      "shop_id": "12892522",
+      "shop_name": "Second Step Coffee",
+      "shop_url": "https://www.tokopedia.com/secondstepcoffee",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "secondstepcoffee"
+    },
+    {
+      "shop_id": "996450",
+      "shop_name": "Brewsuniq Store",
+      "shop_url": "https://www.tokopedia.com/brewsuniq",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "brewsuniq"
+    },
+    {
+      "shop_id": "8508025",
+      "shop_name": "Tygo Life",
+      "shop_url": "https://www.tokopedia.com/tygo-life",
+      "search_isOfficial": true,
+      "search_isPowerBadge": false,
+      "gold_isOfficial": 1,
+      "gold_shopTier": 2,
+      "gold_isGold": 1,
+      "resolved_domain": "tygo-life"
+    }
+  ],
+  "checked_at": "2026-11-05T18:43:52.508643+07:00"
+}

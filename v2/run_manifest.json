@@ -1,0 +1,971 @@
+{
+  "phase": "search",
+  "started_at": "2026-11-05T18:56:21.626111+07:00",
+  "status": "complete",
+  "tasks": [
+    {
+      "keyword": "iphone",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "iphone",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "samsung galaxy",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "samsung galaxy",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "xiaomi",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "xiaomi",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "laptop asus",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "laptop asus",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "laptop lenovo",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "laptop lenovo",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "smart tv",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "smart tv",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kamera canon",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kamera canon",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "printer",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "printer",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "power bank",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "power bank",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "headphone bluetooth",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "headphone bluetooth",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kulkas",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kulkas",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "mesin cuci",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "mesin cuci",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "ac 1 pk",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "ac 1 pk",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "blender",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "blender",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "rice cooker",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "rice cooker",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kasur",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kasur",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "lampu led",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "lampu led",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kursi kantor",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kursi kantor",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "meja belajar",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "meja belajar",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "sepatu running",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "sepatu running",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "tas ransel",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "tas ransel",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "jam tangan pria",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "jam tangan pria",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kemeja pria",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kemeja pria",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "gamis",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "gamis",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "serum wajah",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "serum wajah",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "lipstik",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "lipstik",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "parfum",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "parfum",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "vitamin c",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "vitamin c",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "masker",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "masker",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "popok bayi",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "popok bayi",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "susu formula",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "susu formula",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "mainan anak",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "mainan anak",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "sepeda",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "sepeda",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "raket badminton",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "raket badminton",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "yoga mat",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "yoga mat",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "panci",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "panci",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kopi bubuk",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "kopi bubuk",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "minyak goreng",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "minyak goreng",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "teh celup",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "teh celup",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "cokelat bubuk",
+      "tier": "official",
+      "shop_tier_filter": 2,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    },
+    {
+      "keyword": "cokelat bubuk",
+      "tier": "non_official",
+      "shop_tier_filter": 1,
+      "pages": [
+        {
+          "page": 1,
+          "products": 60
+        }
+      ],
+      "collected": 60
+    }
+  ],
+  "crawler_version": "v2.0.0",
+  "finished_at": "2026-11-05T19:01:57.426410+07:00",
+  "request_count": 81,
+  "rows_written": 4800
+}

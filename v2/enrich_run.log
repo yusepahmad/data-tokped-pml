@@ -1,0 +1,71 @@
+loaded 1600 unique, 252 done, 1348 to enrich
+[3/1348] ERROR HTTPError: HTTP Error 410: Gone
+[4/1348] ERROR HTTPError: HTTP Error 410: Gone
+[9/1348] ERROR HTTPError: HTTP Error 410: Gone
+[10/1348] ERROR HTTPError: HTTP Error 410: Gone
+[50/1348] ok=40 fail=10 (last: Kabel Printer 1.5 Meter)
+[100/1348] ok=88 fail=12 (last: Power Bank DIY Tenaga Solar de)
+[150/1348] ok=133 fail=17 (last: Vixplorn Rak Tempel Magnet Kul)
+[200/1348] ok=179 fail=21 (last: MESIN CUCI 2 TABUNG TOSHIBA VH)
+[243/1348] ERROR HTTPError: HTTP Error 410: Gone
+[250/1348] ok=221 fail=29 (last: DAIKIN AC FTKE 15YV14 AC 1/2 P)
+[300/1348] ok=271 fail=29 (last: Switch Saklar Blender Kotak Pe)
+loaded 1600 unique, 549 done, 1051 to enrich
+[1/1051] ERROR HTTPError: HTTP Error 410: Gone
+[2/1051] ERROR HTTPError: HTTP Error 410: Gone
+[4/1051] ERROR HTTPError: HTTP Error 410: Gone
+[5/1051] ERROR HTTPError: HTTP Error 410: Gone
+[6/1051] ERROR HTTPError: HTTP Error 410: Gone
+[24/1051] ERROR HTTPError: HTTP Error 410: Gone
+[25/1051] ERROR HTTPError: HTTP Error 410: Gone
+[29/1051] ERROR HTTPError: HTTP Error 410: Gone
+[50/1051] ok=34 fail=16 (last: Xiaomi Rice Cooker N1 3L MFB13)
+[100/1051] ok=76 fail=24 (last: LED BiColor Light Panel Contin)
+[150/1051] ok=122 fail=28 (last: Key Life Jual Kursi Kantor Erg)
+[200/1051] ok=166 fail=34 (last: SHENAR MEJA LIPAT LAPTOP BELAJ)
+[250/1051] ok=210 fail=40 (last: SEPATU RUNNING 910 NINETEN HAZ)
+[271/1051] ERROR HTTPError: HTTP Error 410: Gone
+[300/1051] ok=254 fail=46 (last: Mirage Watch - Jam Tangan Orig)
+[350/1051] ok=300 fail=50 (last: Cardinal Kemeja Lengan Panjang)
+[400/1051] ok=342 fail=58 (last: ABINAWA WARNA COKLAT BAJU BATI)
+[450/1051] ok=390 fail=60 (last: Samarex Promo Khusus Live - Se)
+[499/1051] ERROR HTTPError: HTTP Error 410: Gone
+[500/1051] ok=435 fail=65 (last: AzzwarS - Fantasy by Azzwars P)
+[550/1051] ok=482 fail=68 (last: Paket Healthy Glow Lemon - 1x )
+[600/1051] ok=527 fail=73 (last: Strap Masker Butterfly Series )
+[614/1051] ERROR HTTPError: HTTP Error 410: Gone
+[619/1051] ERROR HTTPError: HTTP Error 410: Gone
+[650/1051] ok=569 fail=81 (last: Fluffy Minipack & Fluffy Small)
+[686/1051] ERROR HTTPError: HTTP Error 410: Gone
+[700/1051] ok=611 fail=89 (last: Pikyo 2.4G 1:20 Mobil Remote C)
+[712/1051] ERROR HTTPError: HTTP Error 410: Gone
+[750/1051] ok=657 fail=93 (last: Jersey Sepeda Jersey Gowes Kao)
+[800/1051] ok=696 fail=104 (last: Raket Badminton Victor Thruste)
+STOPPED: Network request failed: Failed to perform, curl: (6) Could not resolve host: www.tokopedia.com. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+total requests this run: 1514
+loaded 1600 unique, 1246 done, 354 to enrich
+[1/354] ERROR HTTPError: HTTP Error 410: Gone
+[3/354] ERROR HTTPError: HTTP Error 410: Gone
+[4/354] ERROR HTTPError: HTTP Error 410: Gone
+[5/354] ERROR HTTPError: HTTP Error 410: Gone
+[6/354] ERROR HTTPError: HTTP Error 410: Gone
+[8/354] ERROR HTTPError: HTTP Error 410: Gone
+[10/354] ERROR HTTPError: HTTP Error 410: Gone
+[11/354] ERROR HTTPError: HTTP Error 410: Gone
+[12/354] ERROR HTTPError: HTTP Error 410: Gone
+[43/354] ERROR HTTPError: HTTP Error 410: Gone
+[50/354] ok=33 fail=17 (last: Jam Tangan LED Watch Nylon Kot)
+[65/354] ERROR HTTPError: HTTP Error 410: Gone
+[76/354] ERROR HTTPError: HTTP Error 410: Gone
+[77/354] ERROR HTTPError: HTTP Error 410: Gone
+[80/354] ERROR HTTPError: HTTP Error 410: Gone
+[91/354] ERROR HTTPError: HTTP Error 410: Gone
+[100/354] ok=70 fail=30 (last: (Crazy Deal) Goto [COD] Smash )
+[150/354] ok=117 fail=33 (last: 【Stok Lokal】DANNA TAS YOGA MAT)
+[200/354] ok=164 fail=36 (last: Paper Filter V60 Coffee Saring)
+[250/354] ok=213 fail=37 (last: SARINGAN TIRISAN MINYAK GORENG)
+[300/354] ok=260 fail=40 (last: One Two Cups Kantong Saringan )
+[350/354] ok=308 fail=42 (last: BODUO Tetiao Cocoa Flavored Po)
+[354/354] ok=312 fail=42 (last: Astery Powder - 1KG Pure Cocoa)
+enrich done: ok=312 fail=42
+total requests this run: 613

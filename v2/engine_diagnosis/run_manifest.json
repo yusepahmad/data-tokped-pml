@@ -1,0 +1,30 @@
+{
+  "started_at": "2026-11-05T18:26:56.477712+07:00",
+  "engine": "sc-tokopedia-data-industry/api/scraper.py",
+  "status": "diagnosis_complete",
+  "searches": [
+    {
+      "keyword": "iphone",
+      "products": 60,
+      "official": 60,
+      "total_available": 983219
+    },
+    {
+      "keyword": "sepatu running",
+      "products": 60,
+      "official": 60,
+      "total_available": 174727
+    },
+    {
+      "keyword": "kopi bubuk",
+      "products": 60,
+      "official": 60,
+      "total_available": 61491
+    }
+  ],
+  "product_requests": 0,
+  "user_instruction": "gunakan engine yang sudah ada",
+  "terms_findings": "See ../diagnosis.md; not a claim of Tokopedia permission.",
+  "finished_at": "2026-11-05T18:27:13.133381+07:00",
+  "request_count": 4
+}

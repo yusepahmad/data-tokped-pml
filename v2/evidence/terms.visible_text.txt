@@ -1,0 +1,531 @@
+Term & Condition  | Tokopedia
+Website ini memerlukan javascript untuk dapat ditampilkan.
+Perubahan yang terjadi
+Tentang Kami
+Pemberitahuan Privasi
+Syarat & Ketentuan
+FAQ
+Terms & Conditions
+Selamat datang di situs/aplikasi Tokopedia.
+Syarat dan ketentuan yang ditetapkan di bawah ini merupakan perjanjian antara Pengguna (“Anda”) dengan PT Tokopedia (“Tokopedia” atau “Kami”) yang mengatur hak, kewajiban dan tanggung jawab Pengguna terhadap penggunaan layanan, fitur, dan/atau jasa yang diakses oleh Pengguna melalui situs www.tokopedia.com beserta segala situs turunannya dan/atau aplikasi berbasis Android atau iOS yang Kami kelola (“Situs/Aplikasi”). Pengguna disarankan membaca dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum.
+Dengan mendaftar dan/atau menggunakan Situs/Aplikasi, maka Pengguna dianggap telah membaca, mengerti, memahami dan menyetujui semua isi dalam Syarat dan Ketentuan. Jika Pengguna tidak menyetujui salah satu, sebagian, atau seluruh isi Syarat dan ketentuan, maka Pengguna tidak diperkenankan mengakses dan/atau menggunakan Situs/Aplikasi.
+A.
+Definisi
+B.
+Akun, Saldo Refund, Saldo Penghasilan, Password dan Keamanan
+C.
+Transaksi Pembelian
+D.
+Transaksi Penjualan
+E.
+Penataan Etalase
+F.
+Biaya Layanan untuk Pembayaran dan Biaya Jasa Aplikasi
+G.
+Harga
+H.
+Tarif Pengiriman
+I.
+Konten
+J.
+Jenis Barang dan Jasa
+K.
+Power Shop dan TopAds
+L.
+Kartu Kredit
+M.
+Promo
+N.
+Pengiriman Barang
+O.
+Penarikan Dana
+P.
+Pusat Resolusi
+Q.
+Ketentuan Lain
+R.
+Penolakan Jaminan Dan Batasan Tanggung Jawab
+S.
+Pelepasan
+T.
+Ganti Rugi
+U.
+Pilihan Hukum
+V.
+Pembaharuan
+A. Definisi
+Tokopedia
+adalah PT Tokopedia suatu perseroan terbatas yang menjalankan kegiatan usaha jasa web portal www.tokopedia.com, yakni situs pencarian toko dan Barang yang dijual oleh penjual terdaftar.
+Situs/Aplikasi
+adalah situs
+www.tokopedia.com
+milik Tokopedia yang dapat diakses melalui desktop site dan/atau aplikasi yang berbasis Android atau iOS.
+Biaya Jasa Aplikasi adalah biaya penggunaan Situs/Aplikasi Tokopedia untuk tujuan pemeliharaan sistem dan peningkatan kualitas layanan melalui Situs/Aplikasi Tokopedia.
+Pengguna
+adalah pihak yang menggunakan layanan Tokopedia, termasuk namun tidak terbatas pada pengguna terdaftar, Pembeli, Penjual maupun pihak lain yang sekedar berkunjung ke Situs/Aplikasi.
+Pembeli
+adalah Pengguna terdaftar yang melakukan permintaan atas Barang yang dijual oleh Penjual di Situs Tokopedia.
+Penjual
+adalah Pengguna terdaftar yang melakukan tindakan buka toko dan/atau melakukan penawaran atas suatu Barang kepada para Pengguna Situs Tokopedia.
+Barang
+adalah benda yang berwujud / memiliki fisik Barang yang dapat diantar / memenuhi kriteria pengiriman oleh perusahaan jasa pengiriman Barang.
+Saldo Refund
+adalah fasilitas penampungan sementara atas dana milik Pembeli (bukan fasilitas penyimpanan dana), yang disediakan Tokopedia untuk menampung pengembalian dana transaksi (refund) pembelian Barang, produk digital, dan/atau produk keuangan. Dana ini hanya dapat digunakan kembali untuk melakukan pembelian pada Situs Tokopedia dan/atau ditarik ke akun bank yang terdaftar.
+Saldo Penghasilan
+adalah fasilitas penampungan sementara atas dana milik Penjual (bukan fasilitas penyimpanan dana), yang disediakan Tokopedia untuk menampung dana hasil penjualan Barang, produk investasi, dan/atau komisi affiliate pada Situs Tokopedia. Dana ini hanya dapat ditarik ke akun bank yang terdaftar dan tidak dapat digunakan kembali untuk melakukan pembelian pada Situs Tokopedia.
+Rekening Resmi Tokopedia
+adalah rekening bersama yang disepakati oleh Tokopedia dan para pengguna untuk proses transaksi jual beli di Situs Tokopedia. Rekening resmi Tokopedia dapat ditemukan di halaman
+https://www.tokopedia.com/help/article/metode-bayar-di-tokopedia.
+Transaksi Selesai adalah pada saat Pembeli sudah melakukan konfirmasi penerimaan Barang sehingga status transaksi dinyatakan selesai oleh Situs/Aplikasi.
+Pusat Resolusi
+adalah fitur yang disediakan oleh Tokopedia untuk memfasilitasi penyelesaian masalah transaksi antara Pembeli dan Penjual.
+Ketentuan Situs adalah Syarat dan Ketentuan Situs/Aplikasi, Kebijakan Privasi, dan setiap Syarat dan Ketentuan lain yang dapat berlaku untuk atau sehubungan dengan penggunaan Situs/Aplikasi dan seluruh fitur yang terdapat di dalamnya.
+Shop
+adalah pasar elektronik yang disediakan oleh Tokopedia melalui aplikasi selular "TikTok".
+Integrasi Akun
+adalah integrasi akun Penjual pada Situs/Aplikasi dan Shop dengan menggunakan satu pusat penjual /
+seller center
+untuk mengelola toko di kedua platform.
+Kembali ke atas
+B. Akun, Saldo Refund, Saldo Penghasilan, Password dan Keamanan
+Situs/Aplikasi hanya untuk orang yang berusia 18 tahun ke atas. Dengan menggunakan Situs/Aplikasi, Anda mengonfirmasi bahwa Anda telah berusia di atas usia minimum yang disyaratkan. Apabila kami mengetahui bahwa seseorang yang berusia di bawah usia minimum yang disyaratkan tersebut menggunakan Situs/Aplikasi, pengguna tersebut tidak dapat membeli Barang di Situs/Aplikasi.
+Apabila Anda berusia antara 18 hingga 21 tahun, belum menikah atau berada di bawah perwalian, dengan menyetujui Syarat dan Ketentuan ini, Anda menyatakan dan menjamin bahwa Anda telah mendapatkan persetujuan dari orang tua atau wali Anda yang sah, kecuali apabila Anda menyatakan sebaliknya. Dengan menyetujui, orang tua atau wali sah Anda setuju untuk bertanggung jawab atas:
+(i) semua tindakan Anda sehubungan dengan penggunaan akun Anda;
+(ii) setiap biaya atau ongkos sehubungan dengan pembelian atau penggunaan akun Anda (sebagaimana berlaku);
+(iii) kepatuhan Anda terhadap Syarat dan Ketentuan ini; dan
+(iv) memastikan bahwa setiap pembelian atau penggunaan akun Anda tidak akan, dalam hal apa pun, mengakibatkan pelanggaran hukum dan peraturan yang berlaku terkait perlindungan anak.
+Apabila Anda berusia antara 18 hingga 21 tahun dan belum menikah, dan Anda tidak memiliki izin dari orang tua atau wali sah dan orang tua Anda, Anda tidak boleh menggunakan akun Anda untuk melakukan pembelian apa pun.
+Tokopedia tidak memungut biaya pendaftaran kepada Pengguna.
+Pengguna memahami bahwa 1 (satu) nomor telepon hanya dapat digunakan untuk mendaftar 1 (satu) akun Pengguna Tokopedia, kecuali bagi Pengguna yang telah memiliki beberapa akun dengan 1 (satu) nomor telepon sebelumnya
+Pengguna yang telah mendaftar berhak bertindak sebagai:
+Pembeli
+Penjual, dengan memanfaatkan layanan buka toko.
+Pengguna yang akan bertindak sebagai Penjual diwajibkan memilih pilihan menggunakan layanan buka toko. Setelah menggunakan layanan buka toko, Pengguna berhak melakukan pengaturan terhadap item-item yang akan diperdagangkan di etalase pribadi Pengguna.
+Pengguna dapat melakukan buka toko untuk bertindak sebagai Penjual, yang mana setelah melakukan buka toko Pengguna berhak melakukan pengaturan barang-barang yang akan diperdagangkan di etalase toko.
+Pengguna yang telah melakukan tindakan buka toko diharapkan mengunggah konten produk yang akan diperdagangkan dalam jangka waktu 90 (sembilan puluh) hari kalender setelah toko berhasil dibuka. Apabila dalam jangka waktu 90 (sembilan puluh) hari kalender Pengguna masih tidak mengunggah konten produk, maka Pengguna menyetujui dan memahami bahwa Tokopedia berhak untuk melakukan moderasi dan/atau penutupan toko tanpa pemberitahuan sebelumnya.
+Tokopedia tanpa pemberitahuan terlebih dahulu kepada Pengguna, memiliki kewenangan untuk melakukan tindakan yang perlu atas setiap dugaan pelanggaran atau pelanggaran Syarat dan Ketentuan dan/atau hukum yang berlaku, yakni tindakan berupa memindahkan Barang ke gudang, penghapusan Barang, moderasi toko, penutupan toko, pembatalan listing, suspensi akun, dan/atau penghapusan akun Pengguna.
+Tokopedia berwenang, tanpa pemberitahuan sebelumnya, melakukan tindakan-tindakan yang diperlukan kepada Penjual, termasuk namun tidak terbatas pada (i) penurunan konten Penjual; (ii) penghapusan Barang; (iii) pembatalan listing Barang; (iv) penutupan toko untuk sementara atau selamanya; dan/atau (v) moderasi akun untuk sementara atau selamanya, dalam hal diduga dan/atau terdapat kegiatan Penjual yang terindikasi melakukan kecurangan dan/atau penipuan serta melanggar Ketentuan Situs dan/atau ketentuan hukum yang berlaku di wilayah negara Indonesia sesuai dengan kebijakan penalti Pengguna, yang dapat dilihat
+DI SINI
+.
+Pengguna menyetujui bahwa Tokopedia berhak melakukan tindakan-tindakan lain yang diperlukan terkait pelanggaran Pengguna, termasuk namun tidak terbatas pada menolak pengajuan pembukaan toko yang baru apabila ditemukan kesamaan data.
+Pengguna memahami dan menyetujui untuk tidak menggunakan, memodifikasi, membongkar, melakukan kegiatan penggandaan, menjual kembali dan/atau kegiatan mengeksploitasi lainnya pada sistem perangkat lunak atau perangkat keras, jaringan dan/atau data Situs/Aplikasi dengan teknologi otomatis atau manual tanpa adanya izin dari Tokopedia.
+Pengguna menyetujui untuk tidak menggunakan dan/atau mengakses sistem Tokopedia secara langsung atau tidak langsung baik keseluruhan atau sebagian dengan virus, perangkat lunak, atau teknologi lainnya yang dapat melemahkan, merusak, mengganggu atau menghambat, membatasi dan/atau mengambil alih fungsionalitas serta integritas dari sistem perangkat lunak atau perangkat keras, jaringan, dan/atau data pada Situs/Aplikasi.
+Pengguna dilarang untuk menciptakan dan/atau menggunakan perangkat keras/lunak/fitur dan/atau alat lainnya, termasuk namun tidak terbatas pada emulator, robot, macro, crawler dan/atau perangkat otomatis yang bertujuan untuk mengakses atau menggunakan layanan pada sistem Tokopedia, seperti namun tidak terbatas pada : (i) manipulasi data Toko; (ii) membuat banyak akun; (iii) memanipulasi perangkat yang bertujuan untuk merugikan Tokopedia; (iv) kegiatan perambanan (crawling/scraping) atau penyalinan konten; (v) kegiatan otomatisasi dalam transaksi, jual beli, promosi,dan lain sebagainya; (vi) penambahan produk ke etalase; (vii) mengumpulkan (harvest) atau mencuri data pengguna; (viii) melakukan spamming, mengirimkan komunikasi elektronik dalam jumlah besar, mengirimkan surat berantai; dan/atau (ix) aktivitas lain yang secara wajar dapat dinilai sebagai tindakan manipulasi layanan dan sistem.
+Tokopedia memiliki kewenangan untuk melakukan penyesuaian jumlah transaksi toko, penyesuaian jumlah reputasi, dan/atau melakukan proses moderasi/menutup akun Pengguna, jika diketahui atau diduga adanya kecurangan oleh Pengguna yang bertujuan memanipulasi data transaksi Pengguna demi meningkatkan reputasi toko (review dan atau jumlah transaksi). Contohnya adalah melakukan proses belanja ke toko sendiri dengan menggunakan akun pribadi atau akun pribadi lainnya.
+Saldo Refund berasal dari pengembalian dana transaksi (refund) pembelian Barang, produk digital, dan/atau produk keuangan di Situs Tokopedia dan tidak bisa dilakukan penambahan secara sendiri (top up).
+Saldo Refund dapat digunakan sebagai salah satu metode pembayaran atas transaksi pembelian Barang, produk digital, dan/atau produk investasi di Situs Tokopedia, dan dapat dilakukan penarikan dana (withdrawal) ke rekening bank yang terdaftar pada akun Pengguna.
+Saldo Penghasilan hanya berasal dari hasil penjualan Barang, produk investasidan tidak bisa dilakukan penambahan secara sendiri (top up).
+Saldo Penghasilan hanya dapat dilakukan penarikan dana (withdrawal) ke rekening bank yang terdaftar pada akun Pengguna, dan tidak dapat digunakan sebagai metode pembayaran atas transaksi pembelian Barang, produk digital, dan/atau produk investasi di Situs Tokopedia, namun dapat digunakan untuk fitur-fitur berlangganan yang membantu Penjual, termasuk namun tidak terbatas pada TopAds atau promo cashback toko.
+Tokopedia memiliki kewenangan untuk melakukan pembekuan Saldo Refund dan Saldo Penghasilan Pengguna apabila ditemukan / diduga adanya tindak kecurangan dalam bertransaksi dan/atau pelanggaran terhadap Syarat dan Ketentuan.
+Penjual dilarang melakukan duplikasi toko, duplikasi produk, atau tindakan-tindakan lain yang dapat diindikasikan sebagai usaha persaingan tidak sehat.
+Penjual memiliki hak untuk melakukan perubahan nama toko dan/atau domain toko sesuai dengan kebijakan yang ditentukan oleh Tokopedia. Penjual harus memastikan bahwa perubahan pada nama toko dan/atau domain toko telah sesuai dengan yang diinginkan dan Penjual bertanggung jawab secara pribadi atas perubahan nama toko dan/atau domain toko tersebut. Penjual menyetujui bahwa setiap perikatan dan tindakan hukum yang terjadi sebelum perubahan nama toko dan/atau domain toko tetap mengikat pada Penjual.
+Pengguna memiliki hak untuk melakukan perubahan pada nama akun sebanyak jumlah kesempatan yang disediakan oleh Tokopedia dan Tokopedia berwenang menentukan dan/atau mengubah jumlah kesempatan perubahan pada nama akun Pengguna. Pengguna harus memastikan bahwa perubahan pada nama akun telah sesuai dengan yang diinginkan dan bertanggung jawab secara pribadi atas perubahan nama akun tersebut. Pengguna menyetujui bahwa setiap perikatan yang terjadi sebelum perubahan nama akun tetap mengikat pada Pengguna.
+Pengguna bertanggung jawab secara pribadi untuk menjaga kerahasiaan akun dan password untuk semua aktivitas yang terjadi dalam akun Pengguna.
+Tokopedia tidak akan meminta username, password maupun kode SMS verifikasi atau kode OTP milik Pengguna untuk alasan apapun, oleh karena itu Tokopedia menghimbau Pengguna agar tidak memberikan data tersebut maupun data penting lainnya kepada pihak yang mengatasnamakan Tokopedia atau pihak lain yang tidak dapat dijamin keamanannya.
+Pengguna setuju untuk memastikan bahwa Pengguna keluar dari akun di akhir setiap sesi dan memberitahu Tokopedia jika ada penggunaan tanpa izin atas sandi atau akun Pengguna.
+Pengguna dengan ini menyatakan bahwa Tokopedia tidak bertanggung jawab atas kerugian ataupun kendala yang timbul atas penyalahgunaan akun Pengguna yang diakibatkan oleh kelalaian Pengguna, termasuk namun tidak terbatas pada menyetujui dan/atau memberikan akses masuk akun yang dikirimkan oleh Tokopedia melalui pesan notifikasi kepada pihak lain melalui perangkat Pengguna, meminjamkan akun kepada pihak lain, mengakses link atau tautan yang diberikan oleh pihak lain, memberikan atau memperlihatkan kode verifikasi (OTP), password atau email kepada pihak lain, maupun kelalaian Pengguna lainnya yang mengakibatkan kerugian ataupun kendala pada akun Pengguna.
+Pengguna memahami dan menyetujui bahwa untuk mempergunakan fasilitas keamanan one time password (OTP), penyedia jasa telekomunikasi terkait dapat sewaktu-waktu mengenakan biaya kepada Pengguna dengan nominal tertentu ditambah Pajak Pertambahan Nilai (PPN) sesuai dengan peraturan perundang-undang perpajakan yang berlaku di Indonesia. Biaya yang dikenakan oleh penyedia jasa telekomunikasi dapat berbeda, tergantung dari kebijakan penyedia jasa telekomunikasi..
+Penjual dilarang melakukan spam guna mempromosikan toko dan/atau Barang secara langsung menggunakan fasilitas pesan pribadi, diskusi produk, ulasan produk yang dapat mengganggu kenyamanan Pengguna lain.
+Ketentuan Anti Pencucian Uang.
+Pengguna harus mematuhi semua hukum, peraturan, dan perintah yang berlaku saat ini atau di masa mendatang yang berkaitan dengan pencucian uang atau pendanaan atau dukungan terorisme, atau pencegahan pencucian uang atau pendanaan dan dukungan terorisme (“Hukum Anti Pencucian Uang”) sehubungan dengan pelaksanaan Syarat dan Ketentuan ini.
+Pengguna menyatakan dan menjamin bahwa:
+operasi bisnisnya (termasuk setiap afiliasi) selalu, dan telah, dilakukan sesuai dengan Hukum Anti Pencucian Uang; dan
+pelaksanaan kewajibannya berdasarkan Syarat dan Ketentuan ini tidak melanggar hukum atau merupakan penggelepan, penghindaran, atau pengelakan berdasarkan Hukum Anti Pencucian Uang.
+Pengguna harus sehubungan dengan kepatuhannya terhadap semua Undang-Undang Anti Pencucian Uang yang berlaku berdasarkan Syarat dan Ketentuan ini:
+mengizinkan Tokopedia untuk mencari informasi dan melakukan survei dan audit, dan harus bekerja sama sepenuhnya dengan setiap permintaan informasi, survei, dan audit secara tepat waktu, termasuk menyediakan dokumen dan personel yang relevan; dan
+memberi tahu Tokopedia tentang setiap aktivitas pencucian uang atau pendanaan teroris yang sebenarnya, potensial, atau diduga terkait dengan Syarat dan Ketentuan ini dalam jangka waktu yang wajar.
+Pengguna memahami dan setuju bahwa setiap ketidakpatuhan terhadap Undang-Undang Anti Pencucian Uang akan merupakan pelanggaran terhadap Syarat dan Ketentuan ini dan memberi hak kepada Tokopedia untuk mengambil tindakan apa pun yang tersedia berdasarkan Syarat dan Ketentuan ini, termasuk melaporkan Pengguna kepada otoritas terkait. Pengguna juga harus mengganti rugi Tokopedia dan afiliasinya atas kerugian apa pun yang dialami Tokopedia dan afiliasinya yang timbul dari pelanggaran Undang-Undang Anti Pencucian Uang oleh Pengguna. Apabila pelanggaran Undang-Undang Anti Pencucian Uang dapat dihukum dengan tindak pidana, Pengguna bertanggung jawab penuh untuk menindaklanjuti proses hukum tersebut.
+Kembali ke atas
+C. Transaksi Pembelian
+Ketentuan transaksi pembelian sebagaimana diatur pada huruf C ini  hanya berlaku bagi Pembeli yang bertransaksi di toko Penjual yang belum melakukan Integrasi Akun. Untuk ketentuan transaksi pembelian di toko Penjual yang telah melakukan Integrasi Akun dapat dilihat DI SINI.
+Pembeli wajib bertransaksi melalui prosedur transaksi yang telah ditetapkan oleh Tokopedia. Pembeli melakukan pembayaran dengan menggunakan metode pembayaran yang sebelumnya telah dipilih oleh Pembeli, dan kemudian Tokopedia akan meneruskan dana ke Penjual setelah Transaksi Selesai.
+Saat melakukan pembelian Barang, Pembeli menyetujui bahwa:
+Pembeli bertanggung jawab untuk membaca, memahami, dan menyetujui informasi/deskripsi keseluruhan Barang (termasuk namun tidak terbatas pada warna, kualitas, fungsi, dan informasi lain yang relevan) sebelum membuat tawaran atau komitmen untuk membeli.
+Pembeli mengakui bahwa warna sebenarnya dari produk sebagaimana terlihat di Situs/Aplikasi tergantung pada monitor komputer/laptop dan/atau layar handphone yang digunakan oleh Pembeli. Tokopedia telah melakukan upaya terbaik untuk memastikan warna dalam foto-foto yang ditampilkan pada Situs/Aplikasi muncul seakurat mungkin, tetapi tidak dapat menjamin bahwa penampilan warna pada Situs/Aplikasi akan akurat dengan Barang.
+Pengguna masuk ke dalam kontrak yang mengikat secara hukum untuk membeli Barang ketika melakukan pembelian Barang.
+Tokopedia tidak mengalihkan kepemilikan secara hukum atas Barang-Barang dari Penjual kepada Pembeli.
+Pembeli memahami dan menyetujui bahwa ketersediaan stok Barang merupakan tanggung jawab Penjual yang menawarkan Barang tersebut, sehingga ketersediaan stok Barang dapat berubah sewaktu-waktu, dengan situasi sebagai berikut:
+jika stok Barang kosong, maka Penjual dapat menolak pesanan dan pembayaran atas Barang yang bersangkutan dikembalikan kepada Pembeli.
+jika Pembeli membeli lebih dari 1 (satu) Barang berbeda dan terdapat stok Barang yang kosong, maka Penjual dapat menerima pesanan Barang sebagian dengan persetujuan Pembeli dan Pembeli akan menerima pengembalian pembayaran sebagian atas Barang yang stoknya kosong.
+jika Pembeli membeli lebih dari 1 (satu) Barang yang sama dan Penjual tidak dapat memenuhi seluruh pesanan, maka Penjual dapat menerima pesanan Barang sebagian dengan persetujuan Pembeli dan Pembeli akan menerima pengembalian pembayaran sebagian lain yang tidak dipenuhi oleh Penjual.
+Penerimaan pesanan Barang sebagian oleh Penjual tidak dapat diproses tanpa persetujuan Pembeli, sehingga jika terdapat perubahan stok Barang, maka Pembeli akan mendapatkan notifikasi melalui Aplikasi Tokopedia dan Pembeli dapat menyetujui atau menolak tawaran Penjual sesuai batas waktu konfirmasi pesanan berdasarkan jenis pengiriman yang dipilih. Jika tidak ada konfirmasi dari Pembeli, maka pesanan akan dibatalkan secara otomatis.
+Pembeli memahami dan menyetujui dengan menerima pesanan Barang sebagian, maka pengembalian pembayaran sebagian akan diterima oleh Pembeli ketika transaksi selesai sebagaimana dijelaskan pada poin C.22 dan C.23 di bawah dst.
+Jika stok Barang kosong, maka Penjual dapat menolak pesanan dan pembayaran atas Barang yang bersangkutan dikembalikan kepada Pembeli.
+Pembeli memahami sepenuhnya dan menyetujui bahwa segala transaksi yang dilakukan antara Pembeli dan Penjual selain melalui Rekening Resmi Tokopedia dan/atau tanpa sepengetahuan Tokopedia (melalui fasilitas/jaringan pribadi, pengiriman pesan, pengaturan transaksi khusus di luar Situs/Aplikasi atau upaya lainnya) merupakan tanggung jawab pribadi dari Pembeli.
+Tokopedia memiliki kewenangan sepenuhnya untuk menolak pembayaran yang dapat berakibat pada pembatalan transaksi tanpa pemberitahuan terlebih dahulu.
+Pembeli yang menggunakan metode pembayaran transfer bank, nilai total pembayaran akan ditambahkan kode unik untuk mempermudah proses verifikasi. Jika pembayaran tersebut telah diverifikasi, maka kode unik akan dikembalikan ke Saldo Refund Pembeli secara
+real time
+.
+Pembeli wajib melakukan pembayaran dengan metode pembayaran yang dipilih dengan nominal yang sesuai dengan jumlah tagihan beserta kode unik (apabila ada) yang tertera pada halaman pembayaran. Tokopedia tidak bertanggung jawab atas kerugian yang dialami Pembeli, apabila Pembeli melakukan pembayaran yang tidak sesuai dengan jumlah tagihan yang tertera pada halaman pembayaran.
+Pembayaran oleh Pembeli wajib dilakukan segera (selambat-lambatnya dalam batas waktu 1x24 jam) setelah Pembeli melakukan
+check-out
+. Jika dalam batas waktu tersebut pembayaran belum dilakukan oleh Pembeli, Tokopedia memiliki kewenangan untuk membatalkan transaksi tersebut dan Pengguna tidak berhak mengajukan klaim atau tuntutan atas pembatalan transaksi tersebut.
+Pembeli disarankan untuk memeriksa dan melakukan pembayaran sesuai dengan nominal tagihan yang tertera pada halaman pembayaran. Khusus pembayaran melalui manual transfer bank, apabila terdapat kekurangan pembayaran, maka akan dicukupi dengan mengurangi saldo Tokopedia pada akun Pembeli. Apabila saldo Tokopedia pada akun Pembeli juga tidak mencukupi kekurangan Pembayaran, Pembeli akan mendapatkan pemberitahuan melalui pesan bantuan, chat atau email yang terdaftar di Situs/Aplikasi untuk melakukan pembayaran kembali senilai kekurangannya hingga batas waktu akhir penerimaan pembayaran yang telah ditentukan sebelumnya.
+Dalam hal Pembeli melakukan pembayaran dengan metode pembayaran transfer bank (verifikasi manual), Tokopedia menyarankan Pembeli untuk mengunggah bukti pembayaran pada Aplikasi untuk mempermudah proses verifikasi.
+Pembeli memahami dan menyetujui bahwa masalah keterlambatan proses pembayaran dan biaya tambahan yang disebabkan oleh perbedaan bank yang Pembeli pergunakan dengan bank Rekening Resmi Tokopedia adalah tanggung jawab Pembeli secara pribadi.
+Pengembalian dana dari Tokopedia kepada Pembeli hanya dapat dilakukan jika dalam keadaan-keadaan tertentu berikut ini:
+Kelebihan pembayaran dari Pembeli atas harga Barang,
+Pembeli menyetujui penerimaan Barang sebagian yang ditawarkan oleh Penjual,
+Masalah pengiriman Barang telah teridentifikasi secara jelas dari Penjual yang mengakibatkan pesanan Barang tidak sampai,
+Penjual tidak bisa menyanggupi order karena kehabisan stok, perubahan ongkos kirim, maupun penyebab lainnya,
+Penjual sudah menyanggupi pengiriman order Barang, tetapi setelah batas waktu yang ditentukan ternyata Penjual tidak mengirimkan Barang hingga batas waktu yang telah ditentukan.
+Penyelesaian permasalahan melalui Pusat Resolusi berupa keputusan untuk pengembalian dana kepada Pembeli atau hasil keputusan dari pihak Tokopedia.
+Apabila terjadi proses pengembalian dana, maka pengembalian akan dilakukan melalui Saldo Refund milik Pengguna yang akan bertambah sesuai dengan jumlah pengembalian dana. Jika Pengguna menggunakan pilihan metode pembayaran kartu kredit maka pengembalian dana akan merujuk pada ketentuan bagian L. Kartu Kredit.
+Pembeli dilarang untuk membagi 1 (satu) transaksi pembelian Barang menjadi 2 (dua) transaksi atau lebih secara terpisah untuk membagi nilai pembayaran (
+split payment
+) dengan tujuan memanipulasi metode pembayaran dan/atau mendapatkan manfaat lebih yang melanggar Syarat dan Ketentuan, yang dilakukan dengan cara apa pun termasuk namun tidak terbatas dengan menghubungi Penjual untuk melakukan perubahan harga dan/atau membeli beberapa produk untuk membagi jumlah harga dari suatu produk yang diinginkan.
+Pembeli memahami dan menyetujui untuk melepaskan Tokopedia dari tanggung jawab apabila terjadi kendala atas transaksi yang menggunakan metode
+split payment
+, termasuk namun tidak terbatas pada kendala transaksi, kendala pembayaran, kendala pengiriman, maupun kerusakan dan/atau kehilangan Barang baik sebagian maupun seluruhnya.
+Tokopedia berwenang untuk melakukan tindakan-tindakan yang diperlukan apabila diketahui terdapat transaksi pembelian menggunakan metode
+split payment
+, termasuk namun tidak terbatas pada pembatalan transaksi dan/atau pembatalan promo atau cashback.
+Pembeli menyetujui untuk tidak memberitahukan atau menyerahkan bukti pembayaran dan/atau data pembayaran kepada pihak lain selain Tokopedia. Dalam hal terjadi kerugian akibat pemberitahuan atau penyerahan bukti pembayaran dan/atau data pembayaran oleh Pembeli kepada pihak lain, maka hal tersebut akan menjadi tanggung jawab Pembeli.
+Pembeli memahami dan menyetujui bahwa Pembeli bertanggungjawab untuk menjaga informasi terkait transaksi dan pengiriman melalui Situs/Aplikasi. Seluruh tindakan termasuk namun tidak terbatas pada kesepakatan yang dilakukan atas transaksi pembelian, pengembalian maupun penukaran Barang diluar Situs/Aplikasi adalah bukan tanggung jawab Tokopedia, sehingga klaim serta kerugian yang timbul akibat tindakan tersebut menjadi tanggung jawab masing-masing pihak secara pribadi.
+Pembeli wajib melakukan konfirmasi penerimaan Barang, setelah menerima kiriman Barang yang dibeli. Tokopedia memberikan batas waktu tertentu (silahkan dilihat pada halaman detail pesanan) setelah pengiriman berstatus "terkirim" pada sistem Tokopedia, untuk Pembeli melakukan konfirmasi penerimaan Barang. Jika dalam batas waktu tersebut tidak ada konfirmasi atau komplain dari Pembeli, maka dengan demikian Pembeli menyatakan menyetujui dilakukannya konfirmasi penerimaan Barang oleh sistem Tokopedia.
+Setelah adanya konfirmasi penerimaan Barang atau konfirmasi penerimaan Barang otomatis, maka dana pihak Pembeli yang dikirimkan ke Rekening Resmi Tokopedia akan diteruskan kepada Penjual (transaksi dianggap selesai).
+Pembeli memahami dan menyetujui bahwa setiap klaim yang dilayangkan setelah adanya konfirmasi dari Pembeli atau konfirmasi penerimaan Barang oleh sistem adalah bukan menjadi tanggung jawab Tokopedia. Kerugian yang timbul setelah adanya konfirmasi dari Pembeli atau konfirmasi penerimaan Barang oleh sistem menjadi tanggung jawab Pembeli secara pribadi.
+Pembeli memahami dan menyetujui bahwa setiap masalah pengiriman Barang yang disebabkan keterlambatan pembayaran adalah merupakan tanggung jawab dari Pembeli.
+Pengguna memahami dan menyetujui jika ditemukan adanya indikasi kecurangan, pelanggaran Syarat dan Ketentuan Tokopedia atau ketentuan hukum yang berlaku, maka Tokopedia berwenang untuk melakukan tindakan-tindakan yang diperlukan termasuk namun tidak terbatas pada tindakan pembatasan pilihan metode pembayaran, melakukan pembatalan transaksi tanpa pemberitahuan sebelumnya.
+Tokopedia berwenang, tanpa pemberitahuan sebelumnya, melakukan tindakan-tindakan yang diperlukan kepada Pembeli, termasuk namun tidak terbatas pada (i) pembatasan pilihan metode pembayaran; (ii) pembatalan transaksi; dan/atau (iii) moderasi akun untuk sementara atau selamanya, dalam hal diduga dan/atau terdapat kegiatan Pembeli yang terindikasi melakukan kecurangan dan/atau penipuan serta melanggar Ketentuan Situs dan/atau ketentuan hukum yang berlaku di wilayah negara Indonesia
+Untuk mengurangi risiko penipuan atau transaksi yang tidak sah ketika menggunakan metode pembayaran tertentu pada Situs/Aplikasi, Pengguna diwajibkan untuk membuat kode PIN (“
+PIN
+”). Fitur PIN adalah fitur keamanan yang dirancang untuk membantu menjaga akun Pengguna lebih aman. Jika diaktifkan, Pengguna harus memasukkan PIN untuk menyelesaikan transaksi pembayaran atas pesanan mereka.
+Pengguna bertanggung jawab untuk menjaga kerahasiaan PIN setiap saat, dan tidak boleh mengungkapkan PIN mereka kepada siapa pun dengan alasan apa pun. Untuk alasan keamanan, Pengguna juga dapat memilih untuk memperbarui PIN mereka dari waktu ke waktu melalui Situs/Aplikasi. Karena PIN bersifat khusus untuk setiap Pengguna, Pengguna dianggap telah membuat dan bertanggung jawab penuh atas setiap transaksi yang dilakukan pada Situs/Aplikasi setelah PIN tersebut dimasukkan.
+Kembali ke atas
+D. Transaksi Penjualan
+Ketentuan transaksi penjualan sebagaimana diatur pada huruf D ini hanya berlaku bagi Penjual yang belum melakukan Integrasi Akun. Untuk ketentuan transaksi penjualan oleh Penjual yang telah melakukan Integrasi Akun dapat dilihat
+DI SINI
+.
+Tokopedia berhak untuk melakukan pemindahan, perubahan, peningkatan, dan/atau pembaruan atas sistem, fitur, fungsionalitas, maupun platform yang digunakan dalam rangka memfasilitasi transaksi penjualan oleh Penjual di Situs/Aplikasi. Perubahan tersebut dapat dilakukan dari waktu ke waktu untuk tujuan peningkatan layanan, pengalaman Pengguna, dan keamanan serta penyesuaian dengan kebutuhan operasional, dan/atau pemenuhan terhadap ketentuan hukum dan peraturan perundang-undangan yang berlaku.
+Penjual dilarang memberikan data kontak pribadi dengan maksud untuk melakukan transaksi secara langsung kepada Pembeli atau/ calon Pembeli.
+Penjual dilarang melakukan penawaran atau menjual Barang terlarang sesuai dengan yang telah ditetapkan pada ketentuan huruf J. Jenis Barang dan Jasa.
+Penjual wajib memberikan foto dan informasi Barang dengan lengkap dan jelas sesuai dengan kondisi dan kualitas Barang yang dijualnya. Apabila terdapat ketidaksesuaian antara foto dan informasi Barang yang diunggah oleh Penjual dengan Barang yang diterima oleh Pembeli, maka Tokopedia berhak membatalkan atau menahan dana atas transaksi tersebut.
+Dalam menggunakan fasilitas "Judul Produk", "Foto Produk", "Catatan" dan "Deskripsi Produk", Penjual dilarang membuat peraturan bersifat klausula baku yang tidak memenuhi peraturan perundang-undangan yang berlaku di Indonesia, termasuk namun tidak terbatas pada (i) tidak menerima komplain, (ii) tidak menerima retur (penukaran barang), (iii) tidak menerima refund (pengembalian dana), (iv) barang tidak bergaransi, (v) pengalihan tanggung jawab (termasuk tidak terbatas pada penanggungan ongkos kirim), (vi) penyusutan nilai harga dan/atau (vii) pengiriman barang acak secara sepihak. Jika terdapat pertentangan antara catatan toko dan/atau deskripsi produk dengan Syarat dan Ketentuan Tokopedia, maka peraturan yang berlaku adalah Syarat dan Ketentuan Tokopedia.
+Penjual wajib memberikan balasan untuk menerima, menerima sebagian, atau menolak pesanan Barang pihak Pembeli dalam batas waktu 2 hari terhitung sejak adanya notifikasi pesanan Barang dari Tokopedia. Jika dalam batas waktu tersebut tidak ada balasan dari Penjual maka secara otomatis pesanan akan dibatalkan.
+Dalam hal Penjual menerima pesanan Barang sebagian, Penjual dapat mengubah jumlah pesanan Barang yang masuk dari Pembeli karena alasan ketersediaan stok Barang, untuk kemudian pesanan Barang dapat diproses oleh Penjual menjadi pesanan Barang sebagian.
+Penerimaan pesanan Barang sebagian hanya dapat diproses oleh Penjual dengan persetujuan dari Pembeli.
+Penjual memahami dan menyetujui bahwa jika Penjual melakukan penerimaan pesanan Barang sebagian melebihi batas yang telah ditentukan oleh Tokopedia, maka akan berpengaruh pada skor toko Penjual.
+Demi menjaga kenyamanan Pembeli dalam bertransaksi, Penjual memahami dan menyetujui bahwa Tokopedia berhak melakukan moderasi toko Penjual apabila Penjual melakukan penolakan, pembatalan dan/atau tidak merespon pesanan Barang milik Pembeli dengan dugaan untuk memanipulasi transaksi, pelanggaran atas Syarat dan Ketentuan, dan/atau kecurangan atau penyalahgunaan lainnya.
+Penjual dilarang untuk menyediakan metode pembayaran terpisah (
+split payment
+) dan/atau membagi 1 (satu) transaksi pembelian Barang menjadi 2 (dua) transaksi yang berbeda dengan tujuan untuk memanipulasi metode pembayaran dan/atau mendapatkan manfaat lebih yang melanggar Syarat dan Ketentuan, yang dilakukan dengan cara apa pun termasuk namun tidak terbatas dengan menggunakan layanan "varian produk" atau menjual beberapa produk sehingga membagi jumlah harga atau transaksi dari suatu produk yang diinginkan.
+Penjual memahami dan menyetujui untuk melepaskan Tokopedia dari tanggung jawab apabila terjadi kendala atas transaksi yang menggunakan metode
+split payment
+, termasuk namun tidak terbatas pada kendala transaksi, kendala pembayaran, kendala pengiriman, maupun kerusakan dan/atau kehilangan produk baik sebagian maupun seluruhnya.
+Tokopedia berwenang untuk melakukan tindakan-tindakan yang diperlukan apabila diketahui terdapat transaksi penjualan menggunakan metode
+split payment sebagaimana ketentuan huruf B angka 8 di atas.
+Penjual menyetujui dan memahami bahwa dengan menerima data informasi Pembeli yang terdapat dalam Situs/Aplikasi wajib menjaga kerahasiaan dan dilarang menyalahgunakan data informasi Pembeli dalam bentuk apapun. Tokopedia berhak, tanpa pemberitahuan sebelumnya, melakukan investigasi dan memberikan sanksi terhadap dugaan atau laporan penyalahgunaan data Pembeli.
+Jika Penjual melewati batas waktu yang ditentukan oleh Tokopedia, Penjual tidak memproses pesanan, maka secara otomatis pesanan dianggap dibatalkan. Jika Penjual tetap mengirimkan Barang setelah melebihi batas waktu pengiriman sebagaimana dijelaskan diatas, maka Penjual memahami bahwa transaksi akan tetap dibatalkan untuk kemudian Penjual dapat melakukan penarikan Barang pada kurir tempat Barang dikirimkan.
+Penjual memahami dan menyetujui bahwa kurir pengiriman tidak dapat diubah oleh Penjual setelah Penjual melakukan konfirmasi pengiriman.Perubahan kurir pengiriman setelah Penjual melakukan konfirmasi pengiriman sepenuhnya menjadi tanggung jawab Penjual. Penjelasan lebih lengkap dapat dilihat
+di sini
+.
+Tokopedia berwenang untuk membatalkan transaksi dan/atau menahan dana transaksi dalam hal: (i) nomor resi kurir pengiriman Barang yang diberikan oleh Penjual tidak sesuai dan/atau diduga tidak sesuai dengan transaksi yang terjadi di Situs/Aplikasi; (ii) Penjual mengirimkan Barang melalui jasa kurir/logistik selain dari yang disediakan dan terhubung dengan Situs/Aplikasi; (iii) jika nama produk dan deskripsi produk tidak sesuai/tidak jelas dengan produk yang dikirim; (iv) jika ditemukan adanya manipulasi transaksi; dan/atau (v) mencantumkan nomor resi pengiriman Barang yang telah digunakan oleh Penjual lainnya (internal dropshipper).
+Penjual memahami dan menyetujui bahwa seluruh pajak sehubungan dengan transaksi Penjualan (namun tidak terbatas pada perubahan informasi toko dan/atau barang), akan dilaporkan dan diurus sendiri oleh masing-masing Penjual sesuai dengan ketentuan peraturan perundang-undang perpajakan yang berlaku di Indonesia.
+Penjual yang telah mencapai 100 (seratus) transaksi penjualan akan dikenakan biaya layanan atas setiap transaksi penjualan berikutnya dengan besaran presentase sesuai dengan kategori Barang sebagai berikut :
+Kategori Barang 1 = Presentase Biaya layanan 3.80%
+Kategori Barang 2 = Presentase Biaya layanan 3.00%
+Kategori Barang 3 = Presentase Biaya layanan 2.60%
+Kategori Barang 4 = Presentase Biaya layanan 1.60%
+Kategori Barang 5 = Presentase Biaya layanan 1.00%
+Ketentuan lebih lanjut mengenai biaya layanan dapat dilihat
+DI SINI
+, yang akan berlaku pada tanggal 2 Januari 2023.
+Penjual memahami dan menyetujui bahwa terdapat penyesuaian status keanggotaan Penjual di Situs/Aplikasi menjadi Penjual dengan status Reguler, Power Shop, dan/atau Mall. Status keanggotaan ditentukan berdasarkan performa dan penilaian toko Penjual berdasarkan kebijakan Tokopedia yang dapat ditentukan dari waktu ke waktu. Selengkapnya dapat dilihat
+DI SINI
+.
+Penjual Reguler yang telah mencapai
+50 (lima puluh)
+transaksi penjualan akan dikenakan biaya layanan atas setiap transaksi penjualan berikutnya, dengan besaran
+Presentase Biaya Layanan Penjual dengan status Reguler dapat dilihat
+DI SINI
+.
+Apabila disepakati oleh Penjual dan Pembeli, penggunaan jasa logistik yang berbeda dari pilihan awal Pembeli dapat dilakukan (dengan ketentuan bahwa tarif pengiriman tersebut adalah di bawah tarif pengiriman awal).
+Tokopedia berwenang memotong kelebihan tarif pengiriman dari dana pembayaran Pembeli dan mengembalikan selisih kelebihan tarif pengiriman kepada Pembeli.
+Penjual memahami sepenuhnya dan menyetujui bahwa invoice yang diterbitkan adalah atas nama Penjual.
+Kembali ke atas
+E. Penataan Etalase
+Penjual dilarang mempergunakan etalase (termasuk dan tidak terbatas pada informasi toko dan informasi Barang) sebagai media untuk beriklan atau melakukan promosi ke halaman situs atau aplikasi lain diluar Situs/Aplikasi.
+Penjual dilarang memberikan keterangan (informasi toko dan/atau Barang) selain atau diluar daripada keterangan toko dan/atau Barang yang bersangkutan.
+Penamaan Barang dan informasi Barang harus dilakukan sesuai dengan informasi detail, spesifikasi, dan kondisi Barang, dengan demikian Penjual tidak diperkenankan untuk mencantumkan nama, deskripsi, gambar dan/atau kata yang tidak berkaitan dan/atau tidak sesuai dengan Barang tersebut.
+Penjual yang menambahkan referensi video pada etalase Toko yang bersumber dari link pihak ketiga, maka Penjual wajib untuk mematuhi kebijakan yang dipersyaratkan oleh pihak ketiga tersebut termasuk namun tidak terbatas pada persyaratan layanan Youtube sebagaimana dapat dilihat
+DI SINI
+dan kebijakan privasi Google sebagaimana dapat dilihat
+DI SINI
+apabila Penjual menambahkan referensi video yang bersumber dari Youtube maupun Google. Dalam hal penjual menggunakan referensi video dari Youtube,
+application programming interface
+(API) Tokopedia menggunakan layanan API Yotube.
+Penamaan Barang dan informasi produk harus sesuai dengan kondisi Barang yang ditampilkan dan Penjual  dilarang mencantumkan nama dan informasi yang tidak sesuai dengan kondisi Barang.
+Tokopedia berhak tanpa pemberitahuan sebelumnya untuk melakukan penarikan subsidi (cashback), pembatalan benefit Rewards, penurunan konten dan/atau moderasi toko, apabila didapati pelanggaran sebagaimana diatur pada ketentuan huruf E angka 4 dan 5 di atas.
+Penjual wajib memisahkan tiap-tiap Barang yang memiliki ukuran dan harga yang berbeda.
+Tokopedia memiliki kewenangan mengambil-alih sub-domain toko Penjual jika akun Penjual sudah tidak aktif lebih dari 9 (sembilan) bulan, dan/atau pemilik merek dagang resmi (sesuai dengan Daftar Umum Merek di Indonesia) dengan nama yang sama dengan sub-domain Penjual melakukan klaim terhadapnya dikarenakan mereka ingin menggunakan sub-domain tersebut.
+Tokopedia memiliki kewenangan untuk mengubah nama dan/atau memakai nama toko dan/atau domain Pengguna untuk kepentingan internal Tokopedia.
+Penjual memahami dan menyetujui bahwa Tokopedia dapat melakukan penghapusan Barang yang terdapat di etalase toko apabila Barang tersebut memenuhi kriteria penghapusan sebagaimana ditentukan oleh Tokopedia. Penghapusan Barang termasuk pada data-data terkait yang relevan dengan Barang tersebut. Selengkapnya dapat dilihat
+DI SINI
+.
+Dalam hal Barang yang terdapat di etalase toko Penjual memenuhi kriteria penghapusan, Barang tersebut akan masuk ke dalam masa tenggang di mana Penjual diberi waktu untuk melakukan perbaikan-perbaikan sebagaimana relevan untuk menghindari penghapusan oleh sistem.
+Apabila masa tenggang Barang telah berakhir dan Penjual tidak melakukan perbaikan-perbaikan sebagaimana relevan, maka Penjual menyetujui penghapusan yang dilakukan oleh Tokopedia.
+Kembali ke atas
+F. Biaya Layanan
+untuk Pembayaran dan Biaya Jasa Aplikasi
+Pengguna dapat dikenakan biaya layanan untuk pembayaran dan/atau biaya jasa aplikasi.
+Informasi mengenai biaya layanan dapat dilihat
+DI SINI
+.
+Informasi mengenai Biaya Jasa Aplikasi dapat dilihat
+DI SINI
+.
+Tokopedia tidak mengetahui dan oleh karenanya tidak dapat menjamin keabsahan Barang yang dijual atau dibeli secara mandiri oleh Pengguna, untuk itu Pengguna wajib memastikan bahwa Barang yang dijual atau dibeli tidak melanggar ketentuan dalam poin J. Jenis Barang dan/atau ketentuan Peraturan Perundang-undangan yang berlaku.
+Dalam hal ditemukannya dan/atau terdapat dugaan pelanggaran Barang pada transaksi Pengguna, maka biaya layanan yang dikenakan pada Pengguna (sebagaimana relevan) dan Biaya Jasa Aplikasi atas transaksi yang dikenakan kepada Pembeli akan dikembalikan kepada masing-masing Pengguna. Pengguna dengan ini menjamin, membebaskan dan melepaskan Tokopedia dari segala tuntutan hukum atas pelanggaran yang dilakukan oleh Pengguna
+Kembali ke atas
+G. Harga
+Harga Barang yang terdapat dalam Situs/Aplikasi adalah harga yang ditetapkan oleh Penjual. Penjual dilarang memanipulasi harga Barang dengan tujuan apapun dan/atau cara apapun.
+Penjual dilarang menetapkan harga yang tidak wajar pada Barang yang ditawarkan melalui Situs/Aplikasi. Tokopedia berhak untuk melakukan tindakan berupa pemeriksaan, penundaan, atau penurunan konten serta tindakan lainnya berdasarkan penilaian Tokopedia atas dasar penetapan harga yang tidak wajar.
+Pembeli memahami dan menyetujui bahwa kesalahan keterangan harga dan informasi lainnya yang disebabkan tidak terbaharuinya halaman Situs/Aplikasi dikarenakan browser dan/atau penyedia layanan internet yang dipakai Pembeli adalah tanggung jawab Pembeli.
+Penjual memahami dan menyetujui bahwa kesalahan ketik yang menyebabkan keterangan harga atau informasi lain menjadi tidak benar atau sesuai adalah tanggung jawab Penjual. Dalam hal terjadi kesalahan pengetikan keterangan harga Barang yang tidak disengaja, Penjual berhak menolak pesanan Barang yang dilakukan oleh Pembeli.
+Pengguna memahami dan menyetujui bahwa setiap masalah dan/atau perselisihan yang terjadi akibat ketidaksepahaman antara Penjual dan Pembeli tentang harga bukanlah merupakan tanggung jawab Tokopedia.
+Dengan melakukan pemesanan melalui Situs/Aplikasi, Pengguna menyetujui untuk membayar total biaya yang harus dibayarkan sebagaimana tertera dalam halaman pembayaran, yang terdiri dari harga barang, ongkos kirim, dan biaya-biaya lain yang mungkin timbul dan akan diuraikan secara tegas dalam halaman pembayaran. Pengguna setuju untuk melakukan pembayaran melalui metode pembayaran yang telah dipilih sebelumnya oleh Pengguna.
+Batasan harga maksimal satuan untuk Barang yang dapat ditawarkan adalah Rp100.000.000,- (seratus juta Rupiah.
+Situs/Aplikasi untuk saat ini hanya melayani transaksi jual beli Barang dalam mata uang Rupiah.
+Kembali ke atas
+H. Tarif Pengiriman
+Penjual memahami dan mengerti bahwa Tokopedia telah melakukan usaha sebaik mungkin dalam memberikan informasi tarif pengiriman kepada Pembeli berdasarkan lokasi secara akurat, namun Tokopedia tidak dapat menjamin keakuratan data tersebut.
+Pengguna diharapkan untuk memasukkan alamat pengiriman dengan lengkap dan benar untuk memaksimalkan akurasi tarif Tokopedia.
+Pengguna memahami dan menyetujui bahwa selisih biaya pengiriman Barang adalah di luar tanggung jawab Tokopedia, dan oleh karena itu, adalah kebijakan Penjual sendiri untuk membatalkan atau tetap melakukan pengiriman Barang.
+Kembali ke atas
+I. Konten
+Dalam menggunakan setiap fitur dan/atau layanan di Situs/Aplikasi, Pengguna dilarang untuk mengunggah atau mempergunakan kata-kata, komentar, gambar, video atau konten apapun yang mengandung unsur SARA, diskriminasi, merendahkan atau menyudutkan orang lain, vulgar, bersifat ancaman, beriklan atau melakukan promosi ke situs selain Situs Tokopedia, atau hal-hal lain yang dapat dianggap tidak sesuai dengan nilai dan norma sosial maupun berdasarkan kebijakan yang ditentukan sendiri oleh Tokopedia. Tokopedia berhak melakukan tindakan yang diperlukan atas pelanggaran ketentuan ini, antara lain penghapusan konten, moderasi toko, pemblokiran akun, dan lain-lain. Ketentuan lebih lanjut mengenai kebijakan konten Tokopedia dapat dilihat
+DI SINI
+dan ketentuan video dapat dilihat
+DI SINI
+.
+Pengguna dilarang mempergunakan foto atau gambar Barang yang memiliki watermark yang menandakan hak kepemilikan orang lain.
+Pengguna dengan ini memahami dan menyetujui bahwa penyalahgunaan foto/gambar yang di unggah oleh Pengguna adalah tanggung jawab Pengguna secara pribadi.
+Penjual tidak diperkenankan untuk mempergunakan foto/gambar Barang atau logo toko sebagai media untuk beriklan atau melakukan promosi ke situs-situs lain diluar Situs/Aplikasi.
+Penjual dilarang mempromosikan toko dan/atau Barang secara langsung menggunakan fasilitas pesan pribadi (menghubungi Pengguna melalui nomor telepon dan/atau email) tanpa persetujuan Pengguna, maupun promosi melalui diskusi produk dan/atau ulasan produk yang dapat mengganggu kenyamanan Pengguna lain.
+Penjual menjamin foto/gambar yang diunggah tidak termasuk konten yang dilarang berdasarkan Poin I. 1 atau melanggar hak milik pihak lain. Apabila didapati foto/gambar melanggar konten berdasarkan Poin I. 1 atau terdapat laporan pelanggaran hak milik pihak lain, maka Tokopedia berhak melakukan tindakan yang diperlukan atas pelanggaran ketentuan ini, termasuk namun tidak terbatas pada penghapusan konten dan/atau tindakan lainnya yang perlu dilakukan.
+Dengan Pengguna mengunggah konten ke Situs/Aplikasi , Pengguna memberikan Tokopedia hak non-eksklusif, di seluruh dunia, secara terus-menerus, tidak dapat dibatalkan, bebas royalti, disublisensikan (melalui beberapa tingkatan) hak untuk melaksanakan setiap dan semua hak cipta, publisitas, merek dagang, hak basis data dan hak kekayaan intelektual yang Pengguna miliki dalam konten tersebut, di media manapun yang dikenal sekarang atau di masa depan. Selanjutnya, untuk sepenuhnya diizinkan oleh hukum yang berlaku, Anda mengesampingkan hak moral dan berjanji untuk tidak menuntut hak-hak tersebut kepada Tokopedia.
+Pengguna menjamin bahwa konten Pengguna yang diunggah di Situs/Aplikasi tidak melanggar hak kekayaan intelektual pihak manapun dan Pengguna dengan ini bertanggung jawab secara pribadi apabila terdapat pelanggaran hak kekayaan intelektual terhadap konten Pengguna di Situs/Aplikasi.
+Tokopedia menyediakan fitur "Diskusi Produk" untuk memudahkan Pembeli berinteraksi dengan Penjual terkait Barang yang ditawarkan. Penjual tidak diperkenankan menggunakan fitur tersebut untuk tujuan dengan cara apa pun menaikkan harga Barang dagangannya, termasuk di dalamnya memberi komentar pertama kali atau memberi komentar selanjutnya / terus menerus secara berkala (flooding / spam).
+Meskipun Kami mencoba untuk menawarkan informasi yang dapat diandalkan, Kami tidak bisa menjanjikan bahwa katalog milik Penjual akan selalu akurat dan terbarui, dan Pengguna setuju bahwa Pengguna tidak akan meminta Tokopedia bertanggung jawab atas ketimpangan dalam katalog. Katalog mungkin termasuk hak cipta, merek dagang atau hak milik lainnya.
+Penjualan produk yang mengandung tembakau dan/atau rokok elektrik hanya diperkenankan dijual di aplikasi selain versi Android dan harus berada di dalam 6 (enam) kategori tertentu, yaitu:
+Kategori Produk Dewasa Lainnya;
+Kategori E-cigarettes;
+Kategori Liquid Vape;
+Kategori Paket Vaporizer;
+Kategori MOD; dan/atau
+Kategori Atomizer.
+Tokopedia berhak untuk sewaktu-waktu tanpa pemberitahuan sebelumnya, melakukan tindakan penurunan konten produk di aplikasi Tokopedia versi Android pada setiap produk tembakau / rokok elektrik atau pun produk penunjangnya, produk obat-obatan atau vitamin yang mengandung zat yang dilarang, atau produk digital yang seharusnya dibeli melalui suatu aplikasi secara langsung, sesuai dengan Kebijakan Google Play Store yang dapat dilihat pada:
+Produk rokok / tembakau dapat dilihat
+DI SINI
+.
+Obat-obatan dan suplemen kesehatan dapat dilihat
+DI SINI
+.
+Produk digital dapat dilihat
+DI SINI
+.
+Tokopedia berhak sewaktu-waktu tanpa pemberitahuan sebelumnya, untuk mengambil tindakan berupa penurunan reputasi toko atau moderasi toko, apabila Penjual diduga melakukan manipulasi konten sebagaimana diatur dalam poin I. 11 dan 12, termasuk namun tidak terbatas pada manipulasi penulisan nama, gambar, deskripsi, kategori produk, dan/atau kegiatan lainnya yang bertujuan untuk mengelabui penjualan konten sebagaimana diatur dalam poin I. 11 dan 12 agar tetap dapat melakukan penawaran menggunakan Aplikasi Android.
+Kembali ke atas
+J. Jenis Barang dan Jasa
+Berikut ini adalah daftar jenis Barang dan Jasa yang dilarang dan/atau dibatasi untuk diperdagangkan oleh Penjual pada Situs Tokopedia:
+Segala jenis obat-obatan maupun zat-zat lain yang dilarang ataupun dibatasi peredarannya menurut ketentuan hukum yang berlaku, termasuk namun tidak terbatas pada ketentuan Undang-Undang Narkotika, Undang-Undang Psikotropika, dan Undang-Undang Kesehatan. Termasuk pula dalam ketentuan ini adalah obat keras, obat-obatan yang memerlukan resep dokter, obat bius dan sejenisnya, atau obat yang tidak memiliki izin edar dari Badan Pengawas Obat dan Makanan (BPOM).
+Kosmetik dan makanan minuman yang membahayakan keselamatan penggunanya, ataupun yang tidak mempunyai izin edar dari Badan Pengawas Obat dan Makanan (BPOM).
+Bahan yang diklasifikasikan sebagai Bahan Berbahaya menurut Peraturan Menteri Perdagangan yang berlaku.
+Jenis Produk tertentu yang wajib memiliki:
+SNI;
+Petunjuk penggunaan dalam Bahasa Indonesia; atau
+Label dalam Bahasa Indonesia.
+Sementara yang diperjualbelikan tidak mencantumkan hal-hal tersebut.
+Barang-barang lain yang kepemilikannya ataupun peredarannya melanggar ketentuan hukum yang berlaku di Indonesia.
+Barang yang merupakan hasil dan/atau terkait pelanggaran Hak Cipta atau Merek, termasuk namun tidak terbatas pada:
+Penggunaan Merek pihak lain tanpa izin, termasuk namun tidak terbatas pada pada nama, deskripsi, video, atau foto produk;
+Barang palsu / imitasi / bajakan;
+Penggunaan hak cipta pihak lain tanpa izin pada Barang yang dijual;
+Pelanggaran hak cipta pihak lain tanpa izin pada gambar, video, atau deskripsi produk; dan/atau
+Pelanggaran hak kekayaan intelektual lainnya pada Barang yang dijual.
+Barang dewasa yang bersifat seksual berupa obat perangsang, alat bantu seks yang mengandung konten pornografi, serta obat kuat dan obat-obatan dewasa, baik yang tidak memiliki izin edar BPOM maupun yang peredarannya dibatasi oleh ketentuan hukum yang berlaku.
+Minuman beralkohol.
+Iklan.
+Segala bentuk tulisan yang dapat berpengaruh negatif terhadap pemakaian Situs/Aplikasi ini.
+Pakaian dalam bekas.
+Senjata api, senjata tajam, senapan angin, dan segala macam senjata.
+Dokumen pemerintahan dan perjalanan.
+Seragam pemerintahan.
+Bagian/Organ manusia.
+Mailing list dan informasi pribadi.
+Barang-Barang yang melecehkan pihak/ras tertentu atau dapat merendahkan martabat orang lain.
+Pestisida, kecuali pestisida untuk penggunaan yang telah mempunyai nomor pendaftaran dan izin dari Kementerian Pertanian Republik Indonesia.
+Atribut kepolisian.
+Barang hasil tindak pencurian.
+Pembuka kunci dan segala aksesori penunjang tindakan perampokan/pencurian.
+Barang yang dapat dan atau mudah meledak, menyala atau terbakar sendiri.
+Barang cetakan/rekaman yang isinya dapat mengganggu keamanan & ketertiban serta stabilitas nasional.
+Hewan berbahaya dan/atau Hewan yang dilindungi, Penjual dan Pembeli wajib memperhatikan ketentuan penjualan hewan peliharaan pada Situs/Aplikasi, sebagaimana diatur
+DI SINI
+.
+Uang tunai termasuk valuta asing kecuali Penjual memiliki dan dapat mencantumkan izin sebagai Penyelenggara Kegiatan Usaha Penukaran Valuta Asing Bukan Bank berdasarkan Peraturan Bank Indonesia No.18/20/PBI/2016 dan/atau peraturan lainnya yang terkait dengan penukaran valuta asing.
+Materai, kecuali materai tempel yang dijual oleh Penjual yang merupakan pihak yang ditunjuk secara resmi oleh PT Pos Indonesia (Persero) untuk menjual meterai tempel melalui Situs/Aplikasi.
+Pengacak sinyal, penghilang sinyal, dan/atau alat-alat lain yang dapat mengganggu sinyal atau jaringan telekomunikasi
+Perlengkapan dan peralatan judi.
+Jimat-jimat, benda-benda yang diklaim berkekuatan gaib dan memberi ilmu kesaktian.
+Barang dengan hak Distribusi Eksklusif yang hanya dapat diperdagangkan dengan sistem penjualan langsung oleh penjual resmi dan/atau Barang dengan sistem penjualan Multi Level Marketing.
+Produk non fisik yang tidak dapat dikirimkan melalui jasa kurir, termasuk namun tidak terbatas pada produk pulsa/voucher (telepon, listrik, game, dan/atau credit digital), tiket pesawat dan/atau tiket kereta.
+Tiket pertunjukan, termasuk namun tidak terbatas pada tiket konser, baik fisik maupun non fisik.
+Dokumen-dokumen resmi seperti Sertifikat Toefl, Ijazah, Surat Dokter, Kwitansi, dan lain sebagainya
+Segala jenis Barang lain yang bertentangan dengan peraturan pengiriman Barang Indonesia.
+Barang-Barang lain yang melanggar ketentuan hukum yang berlaku di Indonesia.
+Segala jenis Jasa kecuali untuk penawaran yang berasal dari Tokopedia dan afiliasinya termasuk namun tidak terbatas pada jasa print, jasa kebersihan, jasa wedding dan parenting.
+Segala jenis Barang yang isinya tidak pasti, bersifat acak dan/atau undian, termasuk namun tidak terbatas pada Produk Kotak Misteri. Ketentuan tersebut dikecualikan untuk Penjual Mall.
+Alat Kesehatan yang wajib memiliki izin edar dari Kementerian Kesehatan atau tidak boleh diperdagangkan secara bebas.
+Kembali ke atas
+K. Power Shop dan TopAds
+Penjual dengan status toko Reguler dapat menjadi Penjual dengan status toko Power Shop apabila memenuhi ketentuan-ketentuan yang diberikan oleh Tokopedia, selengkapnya dapat dilihat melalui
+https://www.tokopedia.com/help/seller/article/kebijakan-power-shop
+.
+Status, simbol, logo, nama atau hal-hal lainnya yang terkait dengan Power Shop sepenuhnya merupakan kewenangan Tokopedia dan hanya diberikan oleh pihak Tokopedia kepada Penjual yang memenuhi kriteria sebagai Power Shop. Pengguna tidak diperkenankan untuk meniru atau menggunakan hal-hal tersebut pada Nama Toko, Deskripsi Toko, Nama Produk, Foto Produk, dan lain sebagainya.
+Penjual dapat menggunakan layanan TopAds untuk mempromosikan Barang dan/atau toko milik Penjual. TopAds dapat diakses melalui seller dashboard.
+Ketentuan lebih lanjut terkait TopAds dapat dilihat
+DI SINI
+.
+Kembali ke atas
+L. Kartu Kredit
+Pengguna dapat memilih untuk mempergunakan pilihan metode pembayaran menggunakan kartu kredit untuk transaksi pembelian Barang dan/atau produk digital melalui Situs/Aplikasi.
+Transaksi pembelian barang dengan menggunakan kartu kredit dapat dilakukan untuk transaksi pembelian dengan nilai total belanja minimal Rp50.000 (lima puluh ribu rupiah) hingga maksimal Rp50.000.000 (lima puluh juta Rupiah) untuk transaksi marketplace dan/atau digital, transaksi dapat dilakukan hingga Rp500.000.000,- (lima ratus juta rupiah) khusus untuk pembelian produk mobil pada Penjual Mall.
+Transaksi pembelian Barang dengan menggunakan kartu kredit wajib mengikuti syarat dan ketentuan yang diatur oleh Tokopedia.
+Pengguna dilarang untuk mempergunakan metode pembayaran kartu kredit di luar peruntukan sebagai alat pembayaran.
+Apabila terdapat transaksi pembelian barang dengan menggunakan kartu kredit yang melanggar ketentuan hukum dan/atau syarat ketentuan, maka Tokopedia berwenang untuk:
+menahan dana transaksi selama diperlukan oleh Tokopedia, pihak Bank, maupun mitra payment gateway terkait untuk melakukan investigasi yang diperlukan, sekurang-kurangnya 14 (empat belas) hari;
+melakukan pemotongan dana sebesar 15% (lima belas persen) dari nilai transaksi, serta menarik kembali nilai subsidi sehubungan penggunaan kartu kredit.
+Tokopedia berwenang untuk melakukan investigasi terhadap transaksi Kartu Kredit dengan melakukan penahanan proses verifikasi pembayaran sebelum transaksi diteruskan ke Penjual sampai batas waktu tertentu hingga mendapatkan konfirmasi dari partner bank penyedia kartu kredit, maupun mitra payment gateway. Tokopedia juga berwenang untuk melakukan pembatasan metode pembayaran dan/atau melakukan pembatalan transaksi Kartu Kredit apabila terdapat indikasi pelanggaran ketentuan hukum yang berlaku dan/atau Syarat dan Ketentuan.
+Dalam proses verifikasi yang dilakukan oleh partner bank dan/atau mitra payment gateway Pengguna akan dihubungi oleh partner bank dan/atau mitra payment gateway, jika Pengguna tidak melakukan penyangkalan atau pembatalan terhadap verifikasi tersebut, maka transaksi akan diteruskan ke Penjual dan Tokopedia tidak bertanggung jawab apabila terjadi kerugian yang disebabkan oleh kelalaian Pengguna.
+Pengguna memahami dan menyetujui bahwa bertanggung jawab secara pribadi untuk menjaga kerahasiaan dan/atau keamanan data Kartu Kredit milik Pengguna dengan cara menjaga kerahasiaan nomor Kartu Kredit, kode CVV Kartu Kredit, dan kode SMS verifikasi atau kode SMS OTP (
+One-time Password
+) yang telah dikirimkan oleh pihak Bank saat terjadinya transaksi di Situs/Aplikasi.
+Tokopedia akan menghentikan kerjasama dengan Penjual yang melakukan tindakan yang dapat merugikan prinsipal, penerbit, acquirer dan /atau pemegang kartu kredit, antara lain memproses penarikan / gesek tunai (
+cash withdrawal transaction
+).
+Apabila transaksi pembelian tidak berhasil dan/atau dibatalkan, maka tagihan atas transaksi tersebut akan dibatalkan dan dana transaksi akan dikembalikan ke limit kartu kredit pembeli di tagihan berikutnya. Ketentuan pada ayat ini tidak berlaku untuk transaksi pembelian barang dengan menggunakan kartu kredit yang melanggar ketentuan hukum dan/atau syarat dan ketentuan.
+Transaksi pembelian yang menggunakan metode pembayaran kartu kredit dengan sistem cicilan akan dikenakan Biaya Layanan dari total biaya yang harus dibayarkan berdasarkan tenor cicilan yang dipilih sebagaimana diatur
+DI SINI
+dan untuk metode pembayaran Kartu Kredit tanpa cicilan tidak akan dikenakan Biaya Layanan.
+Transaksi pembelian yang menggunakan metode pembayaran cicilan kartu kredit akan dikenakan biaya layanan yang diberlakukan untuk tujuan pemeliharaan sistem dan peningkatan layanan dalam bertransaksi melalui Tokopedia, dengan rincian sebagai berikut:
+Cicilan 3 (tiga) bulan sebesar 2.5% (dua koma lima persen)
+Cicilan 6 (enam) bulan sebesar 3.5% (tiga koma lima persen)
+Cicilan 12 (dua belas) bulan sebesar 6% (enam persen)
+Cicilan 18 (delapan belas) bulan sebesar 8% (delapan persen)
+Cicilan 24 (dua puluh empat) bulan sebesar 10% (sepuluh persen)
+Apabila seluruh transaksi dalam satu pembayaran yang menggunakan kartu kredit dibatalkan, maka biaya layanan tersebut akan dikembalikan ke limit kartu kredit Pengguna. Namun apabila hanya sebagian transaksi dalam satu pembayaran yang menggunakan kartu kredit dibatalkan, maka biaya layanan tersebut tidak akan ikut serta dikembalikan.
+Ketentuan lebih lanjut mengenai pembayaran yang menggunakan metode pembayaran cicilan kartu kredit akan mengikuti ketentuan yang terdapat pada halaman
+https://www.tokopedia.com/help/article/syarat-dan-ketentuan-pembayaran-dengan-sistem-cicilan/
+Kembali ke atas
+M. Promo
+Tokopedia sewaktu-waktu dapat mengadakan kegiatan promosi (selanjutnya disebut sebagai “Promo”) dengan syarat dan ketentuan yang dapat berbeda pada masing-masing kegiatan Promo. Pengguna dihimbau untuk membaca dengan seksama masing-masing syarat dan ketentuan Promo tersebut.
+Pengguna hanya boleh menggunakan 1 (satu) akun Tokopedia untuk mengikuti setiap promo Tokopedia. Jika ditemukan pembuatan lebih dari 1 (satu) akun oleh 1 (satu) Pengguna yang mempunyai informasi akun yang sama dan/atau identitas pembayaran yang sama, maka Pengguna tidak berhak mendapatkan manfaat dari promo Tokopedia.
+Apabila terdapat transaksi Promo yang mempergunakan metode pembayaran kartu kredit yang melanggar Syarat dan Ketentuan Tokopedia, maka akan merujuk pada Syarat dan Ketentuan Poin L. Kartu Kredit.
+Tokopedia berhak, tanpa pemberitahuan sebelumnya, melakukan tindakan-tindakan yang diperlukan termasuk namun tidak terbatas pada menarik subsidi atau cashback, membatalkan manfaat Promo, pencabutan Promo, menghentikan Promo, membatalkan transaksi, menahan dana, menurunkan reputasi toko, menutup toko dan/atau akun, melakukan pembatasan metode pembayaran serta hal-hal lainnya jika ditemukan adanya manipulasi, pelanggaran maupun pemanfaatan Promo untuk keuntungan pribadi Pengguna, maupun indikasi kecurangan atau pelanggaran pelanggaran Syarat dan Ketentuan dan/atau ketentuan hukum yang berlaku di wilayah negara Indonesia.
+Dalam hal diadakannya Promo bebas ongkos kirim/potongan ongkos kirim:
+Jika terdapat selisih antara berat Barang pada deskripsi produk dengan berat Barang yang dikirimkan oleh Penjual melalui jasa kurir/logistik, maka subsidi ongkos kirim yang diberikan akan merujuk kepada berat Barang pada data pihak kurir/logistik;
+Penjual yang berhak mendapatkan subsidi ongkos kirim adalah Penjual yang mempergunakan resi pengiriman valid dan/atau resi pengiriman dari transaksi Tokopedia. Penjual yang mempergunakan resi pengiriman invalid dan/atau resi pengiriman yang bukan dari transaksi Tokopedia, maka Penjual tidak berhak untuk mendapatkan subsidi ongkos kirim; dan/atau
+Jika (i) Penjual menolak pesanan Pembeli, (ii) transaksi dibatalkan otomatis oleh sistem Tokopedia, dan/atau (iii) transaksi dibatalkan berdasarkan keputusan di Pusat Resolusi, maka dana yang dikembalikan kepada Pembeli adalah senilai dana pembayaran transaksi yang dilakukan oleh Pembeli dan tidak termasuk subsidi ongkos kirim.
+Setiap Promo Tokopedia tidak berlaku untuk untuk penggunaan resi pengiriman sebagai berikut:
+Resi pengiriman yang diinput lebih dari 1 (satu) kali. Jika ditemukan penginputan resi sebanyak 2 (dua) kali atau lebih, maka manfaat Promo hanya akan diberikan pada transaksi yang dibentuk oleh Pembeli pertama. Benefit Promo tidak dapat diteruskan pada transaksi dropshipper (Pembeli kedua).
+Resi pengiriman yang bukan dari transaksi Tokopedia. Jika ditemukan Penjual menyertakan resi pengiriman yang bukan dari transaksi Tokopedia, maka manfaat Promo tidak dapat diteruskan pada transaksi tersebut dan/atau akan dilakukan penarikan kembali Promo yang sudah diberikan sesuai dengan yang diberikan oleh Tokopedia.
+Setiap Promo Tokopedia tidak berlaku untuk pembelian logam mulia batangan, voucher belanja, voucher internet, voucher pulsa, paket data, dan minuman beralkohol.
+Kembali ke atas
+N. Pengiriman Barang
+Pembeli akan tunduk pada Ketentuan Logistik Tokopedia dengan kami dan perusahaan-perusahaan yang bekerja sama dengan kami ("Penyedia Logistik"), yang akan mengatur syarat dan ketentuan layanan pengiriman yang Anda pilih di Situs/Aplikasi. Dengan menyetujui Syarat dan Ketentuan ini, anda setuju untuk terikat dengan ketentuan dari Ketentuan Logistik Tokopedia dengan kami dan Penyedia Logistik. Jika anda tidak menyetujui Ketentuan Logistik Shop, maka layanan pengiriman tidak dapat disediakan untuk anda.u000bTokopedia berwenang untuk membuat perubahan, penggantian atau penyesuaian atas jenis pengiriman yang tersedia pada Shop dari waktu ke waktu.u000bSilakan baca Ketentuan Logistik Shop untuk syarat dan ketentuan lebih lanjut tentang pengiriman Produk.
+Pengiriman Barang dalam sistem Tokopedia wajib menggunakan jasa perusahaan ekspedisi yang telah mendapatkan verifikasi rekanan Tokopedia yang dipilih oleh Pembeli.
+Apabila Penjual menggunakan jasa perusahaan ekspedisi di luar dari partner rekanan Tokopedia, maka Tokopedia tidak bertanggung jawab dalam hal terdapat kendala pengiriman Barang.
+Selengkapnya dapat dibaca
+di sini
+.
+Setiap ketentuan berkenaan dengan proses pengiriman Barang adalah wewenang sepenuhnya penyedia jasa layanan pengiriman Barang.
+Pilihan kurir pengiriman untuk semua transaksi yang menggunakan layanan pengiriman standard, ekonomi, kargo, same day, same day 8 jam, dan instan 3 jam ditentukan berdasarkan ketersediaan kurir dan performa kurir yang terbaik untuk Pembeli.
+Pilihan kurir pengiriman ditentukan oleh Pembeli. Jika Pembeli memilih pengiriman sebagaimana dijelaskan pada poin N.4 di atas, maka kurir yang tidak diaktifkan oleh Penjual dapat berpotensi dialokasikan sebagai kurir pengiriman berdasarkan alokasi ketersediaan kurir dan performa kurir yang terbaik untuk Pembeli.
+Setiap ketentuan terkait dengan proses pengiriman Barang sepenuhnya adalah wewenang penyedia jasa layanan pengiriman Barang.
+Penjual wajib memenuhi ketentuan yang ditetapkan oleh jasa layanan pengiriman Barang tersebut dan bertanggung jawab atas setiap Barang yang dikirimkan.
+Penjual memahami dan menyetujui bahwa Penjual wajib memenuhi standar pengemasan pengiriman Barang berdasarkan ketentuan kategori Barang sebagai berikut:
+Cairan wajib menggunakan kemasan plastik, bubble wrap atau kemasan sejenis dengan fungsi serupa, karton atau kardus, lakban, peredam ruang kosong, lapisan luar paket, dan stiker fragile. Optional menggunakan packing kayu (biaya dibebankan kepada Pembeli atau Penjual sesuai dengan kesepakatan).
+Elektronik (baterai, komputer, handphone, dan laptop), barang pecah belah, barang tajam / runcing wajib menggunakan kemasan plastik, bubble wrap atau kemasan sejenis dengan fungsi serupa, karton atau kardus, lakban, peredam ruang kosong, lapisan luar paket, packing kayu (biaya dibebankan kepada Pembeli atau Penjual sesuai dengan kesepakatan), dan stiker fragile.
+Makanan wajib menggunakan kemasan plastik, bubble wrap atau kemasan sejenis dengan fungsi serupa, karton atau kardus, lakban, peredam ruang kosong, lapisan luar paket, dan stiker fragile.
+Lain-lain wajib menggunakan kemasan plastik, bubble wrap atau kemasan sejenis dengan fungsi serupa, karton atau kardus, lakban, dan peredam ruang kosong. Optional menggunakan lapisan luar paket, packing kayu (biaya dibebankan kepada Pembeli atau Penjual sesuai dengan kesepakatan), dan stiker fragile. Detail pengemasan dapat dilihat DI SINI.
+Dalam hal terjadi kendala dalam proses pengiriman berupa barang hilang, barang rusak, dan lain sebagainya, Pembeli dan Penjual dapat melaporkan ke pihak Tokopedia sesuai dengan ketentuan batas waktu pelaporan dan klaim masing-masing penyedia jasa layanan pengiriman Barang yang digunakan Pembeli dan Penjual.
+Informasi lebih lengkap terkait penyedia jasa layanan pengiriman Barang beserta dengan ketentuan yang berlaku pada masing-masing penyedia jasa layanan pengiriman Barang dapat dibaca DI SINI.
+Kembali ke atas
+O. Penarikan Dana
+Penarikan dana sesama bank akan diproses dalam waktu 1x24 jam hari kerja, sedangkan penarikan dana antar bank akan diproses dalam waktu 2x24 jam hari kerja.
+Dalam hal ditemukan adanya dugaan pelanggaran terhadap Syarat dan Ketentuan Tokopedia, kecurangan, manipulasi atau kejahatan, Pengguna memahami dan menyetujui bahwa Tokopedia berhak melakukan tindakan pemeriksaan, pembekuan, penundaan dan/atau pembatalan terhadap penarikan dana yang dilakukan oleh Pengguna.
+Pemeriksaan, pembekuan atau penundaan penarikan dana sebagaimana dimaksud dalam Poin O. 2 dapat dilakukan dalam jangka waktu selama yang diperlukan oleh pihak Tokopedia.
+Kembali ke atas
+P. Pusat Resolusi
+Fitur
+Pusat Resolusi  akan secara otomatis menahan dana pembayaran Barang ke Penjual sampai dengan permasalahan yang dilaporkan ke Pusat Resolusi selesai. Ketentuan ini hanya berlaku bagi Penjual yang belum melakukan Integrasi Akun.
+Dalam menggunakan fitur ini, Pembeli dan Penjual diharapkan memberikan bukti-bukti transaksi jual beli berupa foto Barang, nota pembelian, slip resi pengiriman dan bukti-bukti penunjang lainnya yang dapat menjadi dasar pembenar atas setiap argumen yang dikeluarkan oleh masing-masing pihak.
+Penyelesaian permasalahan melalui Pusat Resolusi dapat berupa solusi yang dihasilkan berdasarkan kesepakatan bersama antara Pembeli dan Penjual.
+Jika Penjual tidak memberikan jawaban dalam jangka waktu yang ditentukan sejak kendala dibuat, maka kendala secara otomatis akan terselesaikan berdasarkan solusi yang diajukan oleh Pembeli.
+Jika tidak ditemukan kesepakatan antara Pembeli dan Penjual dalam jangka waktu yang ditentukan, maka Tokopedia memiliki hak untuk membantu menyelesaikan kendala.
+Dalam hal Tokopedia membantu menyelesaikan kendala, maka Pembeli dan Penjual menyetujui bahwa Tokopedia berwenang untuk mengambil keputusan atas permasalahan-permasalahan transaksi yang belum terselesaikan akibat tidak adanya kesepakatan penyelesaian antara Pembeli dan Penjual, dengan melihat dan mempertimbangkan bukti-bukti yang ada dan/atau bukti-bukti baru yang harus dilengkapi masing-masing pihak.
+Tokopedia berwenang untuk melakukan mediasi dan/atau mengambil keputusan untuk penyelesaian masalah didalam diskusi Pusat Resolusi, meskipun salah satu pihak (Pembeli atau Penjual) belum memberikan tanggapan atas solusi yang diberikan Pusat Resolusi dalam jangka waktu yang diberikan, dalam hal: (i) Adanya informasi dari pihak ketiga yang berkaitan dalam jalannya transaksi, yakni antara lain kurir pengiriman yang memberikan informasi terkait status terkini dari resi pengiriman paket; (ii) Bukti dari Pembeli dan/atau Penjual yang dikirimkan melalui jalur komunikasi lain (email Tokopedia, Layanan Pengguna, dan lainnya) yang perlu diteruskan ke Pusat Resolusi dengan dasar transparansi masalah; (iii) Laporan dari salah satu pihak disebabkan adanya kelalaian Pembeli atau Penjual; (iv) Salah satu pihak (Pembeli atau Penjual) terindikasi melakukan tindakan kecurangan; atau (v) Kondisi tertentu yang menyebabkan Tokopedia perlu segera melakukan mediasi.
+Atas keputusan pertama Tokopedia diatas, baik Pembeli dan Penjual memiliki hak untuk banding, dengan persyaratan bahwa pihak yang mengajukan upaya banding harus mengajukan bukti baru di luar dari bukti-bukti sebelumnya.
+Pembeli dan Penjual dengan ini menyetujui bahwa keputusan Tokopedia atas upaya banding adalah keputusan akhir yang tidak dapat diganggu gugat dan mengikat Penjual dan Pembeli untuk mematuhinya.
+Pengguna memahami bahwa Pusat Resolusi tidak berlaku untuk produk pakaian dalam bekas, kendala yang berkaitan dengan rasa, aroma dan/atau tekstur produk, dan semua produk dalam daftar jenis barang yang dilarang diperjual-belikan di Tokopedia seperti yang ada di halaman Syarat dan Ketentuan.
+Pembeli dan Penjual memahami dan menyetujui bahwa dalam penyelesaian kendala di Pusat Resolusi, Pembeli dan Penjual wajib memberikan tanggapan atas kendala yang ada hingga selesai dengan mematuhi ketentuan dan batas waktu sebagaimana yang telah ditentukan pihak Tokopedia pada diskusi terkait.
+Pembeli dan Penjual memahami dan menyetujui bahwa penanggungan ongkos kirim yang timbul selama proses penyelesaian kendala pada Pusat Resolusi didasarkan oleh bukti-bukti dan/atau kesepakatan yang diberikan oleh kedua belah pihak. Apabila Pembeli dan/atau Penjual tidak bersedia untuk menanggung ongkos kirim tersebut, maka Tokopedia berwenang memberikan keputusan penanggungan ongkos kirim berdasarkan perkembangan diskusi dan bukti yang ada.
+Pembeli memahami dan menyetujui bahwa setelah adanya kesepakatan untuk pengiriman Barang kembali ke Penjual, apabila dalam waktu yang diberikan sebagaimana diinformasikan terhitung sejak Penjual memberikan alamat, Pembeli tidak kunjung melakukan pengiriman barang, maka Tokopedia berwenang untuk mengambil keputusan berdasarkan perkembangan diskusi dan bukti yang ada.
+Tokopedia memiliki kontak Pusat Resolusi berupa nomor Tokopedia Care, yang akan menghubungi Pengguna untuk membantu menyelesaikan kendala transaksi. Nomor Tokopedia Care tidak dapat dihubungi oleh Pengguna karena akan terblokir oleh sistem atau terhubung dengan respons suara interaktif Tokopedia. Berikut adalah nomor Tokopedia Care:
+021-50917008
+021-50917000
+021-25091708
+021-30030316
+021-30034080
+Pengguna dapat memberikan akses kepada Tokopedia untuk menyimpan nomor Tokopedia Care ke perangkat Pengguna melalui notifikasi yang muncul setelah Pengguna mengajukan komplain/keluhan pada halaman Tokopedia Care. Pengguna memahami dan menyetujui bahwa pemberian akses kepada Tokopedia dalam menyimpan nomor Tokopedia Care bertujuan untuk mempermudah Pengguna mengenali kontak Tokopedia.
+Tata cara menggunakan Pusat Resolusi selengkapnya dapat dilihat pada Halaman Bantuan Pusat Resolusi.
+Kembali ke atas
+Q. Ketentuan Lain
+Apabila Pengguna mempergunakan fitur/layanan yang tersedia dalam Situs/Aplikasi Tokopedia, maka Pengguna dengan ini menyatakan memahami dan menyetujui segala syarat dan ketentuan yang diatur khusus sehubungan dengan fitur/layanan yang digunakan.
+Segala hal yang belum dan/atau tidak diatur dalam syarat dan ketentuan khusus dalam fitur tersebut maka akan sepenuhnya merujuk pada syarat dan ketentuan Tokopedia secara umum.
+Dengan menyetujui Syarat dan Ketentuan Tokopedia, maka Pengguna telah dianggap tunduk pada Kebijakan Privasi Tokopedia.
+Kembali ke atas
+R. Penolakan Jaminan Dan Batasan Tanggung Jawab
+Tokopedia adalah portal web dengan model Costumer to Customer Marketplace, yang menyediakan layanan kepada Pengguna untuk dapat menjadi Penjual maupun Pembeli di website Tokopedia. Dengan demikian transaksi yang terjadi adalah transaksi antar member Tokopedia, sehingga Pengguna memahami bahwa batasan tanggung jawab Tokopedia secara proporsional adalah sebagai penyedia jasa portal web.
+Tokopedia selalu berupaya untuk menjaga Layanan Tokopedia aman, nyaman, dan berfungsi dengan baik, tapi kami tidak dapat menjamin operasi terus-menerus atau akses ke Layanan kami dapat selalu sempurna. Informasi dan data dalam situs
+Tokopedia memiliki kemungkinan tidak terjadi secara real time.
+Pengguna setuju bahwa Anda memanfaatkan Layanan Tokopedia atas risiko Pengguna sendiri, dan Layanan Tokopedia diberikan kepada Anda pada "SEBAGAIMANA ADANYA" dan "SEBAGAIMANA TERSEDIA".
+Sejauh diizinkan oleh hukum yang berlaku, Tokopedia (termasuk Induk Perusahaan, direktur, dan karyawan) adalah tidak bertanggung jawab, dan Anda setuju untuk tidak menuntut Tokopedia bertanggung jawab, atas segala kerusakan atau kerugian (termasuk namun tidak terbatas pada hilangnya uang, reputasi, keuntungan, atau kerugian tak berwujud lainnya) yang diakibatkan secara langsung atau tidak langsung dari :
+Penggunaan atau ketidakmampuan Pengguna dalam menggunakan Layanan Tokopedia.
+Harga, Pengiriman atau petunjuk lain yang tersedia dalam layanan Tokopedia.
+Keterlambatan atau gangguan dalam Layanan Tokopedia.
+Kelalaian dan kerugian yang ditimbulkan oleh masing-masing Pengguna.
+Kualitas Barang.
+Pengiriman Barang.
+Pelanggaran Hak atas Kekayaan Intelektual.
+Perselisihan antar Pengguna.
+Pencemaran nama baik pihak lain.
+Setiap penyalahgunaan Barang yang sudah dibeli pihak Pengguna.
+Kerugian akibat pembayaran tidak resmi kepada pihak lain selain ke Rekening Resmi Tokopedia, yang dengan cara apapun mengatas-namakan Tokopedia ataupun kelalaian penulisan rekening dan/atau informasi lainnya dan/atau kelalaian pihak bank.
+Pengiriman untuk perbaikan Barang yang bergaransi resmi dari pihak produsen. Pembeli dapat membawa Barang langsung kepada pusat layanan servis terdekat dengan kartu garansi dan faktur pembelian.
+Virus atau perangkat lunak berbahaya lainnya (bot, script, automation tool selain fitur Power Shop, hacking tool) yang diperoleh dengan mengakses, atau menghubungkan ke layanan Tokopedia.
+Gangguan, bug, kesalahan atau ketidakakuratan apapun dalam Layanan Tokopedia.
+Kerusakan pada perangkat keras Anda dari penggunaan setiap Layanan Tokopedia.
+Isi, tindakan, atau tidak adanya tindakan dari pihak ketiga, termasuk terkait dengan Produk yang ada dalam situs Tokopedia yang diduga palsu.
+Tindak penegakan yang diambil sehubungan dengan akun Pengguna.
+Adanya tindakan peretasan yang dilakukan oleh pihak ketiga kepada akun Pengguna.
+Kembali ke atas
+S. Pelepasan
+Jika Anda memiliki perselisihan dengan satu atau lebih pengguna, Anda melepaskan Tokopedia (termasuk Induk Perusahaan, Direktur, dan karyawan) dari klaim dan tuntutan atas kerusakan dan kerugian (aktual dan tersirat) dari setiap jenis dan sifatnya , yang dikenal dan tidak dikenal, yang timbul dari atau dengan cara apapun berhubungan dengan sengketa tersebut, termasuk namun tidak terbatas pada kerugian yang timbul dari pembelian Barang yang telah dilarang pada Poin J. Jenis Barang. Dengan demikian maka Pengguna dengan sengaja melepaskan segala perlindungan hukum (yang terdapat dalam undang-undang atau peraturan hukum yang lain) yang akan membatasi cakupan ketentuan pelepasan ini.
+Kembali ke atas
+T. Ganti Rugi
+Pengguna akan melepaskan Tokopedia dari tuntutan ganti rugi dan menjaga Tokopedia (termasuk Induk Perusahaan, direktur, dan karyawan) dari setiap klaim atau tuntutan, termasuk biaya hukum yang wajar, yang dilakukan oleh pihak ketiga yang timbul dalam hal Anda melanggar Perjanjian ini, penggunaan Layanan Tokopedia yang tidak semestinya dan/ atau pelanggaran Anda terhadap hukum atau hak-hak pihak ketiga.
+Kembali ke atas
+U. Pilihan Hukum
+Perjanjian ini akan diatur oleh dan ditafsirkan sesuai dengan hukum Republik Indonesia, tanpa memperhatikan pertentangan aturan hukum. Anda setuju bahwa tindakan hukum apapun atau sengketa yang mungkin timbul dari, berhubungan dengan, atau berada dalam cara apapun berhubungan dengan situs dan/atau Perjanjian ini akan diselesaikan secara eksklusif dalam yurisdiksi pengadilan Republik Indonesia.
+Kembali ke atas
+V. Pembaharuan
+Syarat & ketentuan mungkin diubah dan/atau diperbaharui dari waktu ke waktu tanpa pemberitahuan sebelumnya. Tokopedia menyarankan agar anda membaca secara seksama dan memeriksa halaman Syarat & ketentuan ini dari waktu ke waktu untuk mengetahui perubahan apapun. Dengan tetap mengakses dan menggunakan layanan Tokopedia, maka pengguna dianggap menyetujui perubahan-perubahan dalam Syarat & Ketentuan.
+Kembali ke atas
+Last Update:
+05/06/2026
+© 2019 -
+2026
+, PT Tokopedia
